@@ -1,5 +1,5 @@
 # Table of contents
 
-* [help](README.md)
+* [Introduction](README.md)
 * [Connecting Accounts](connecting-accounts.md)
 
