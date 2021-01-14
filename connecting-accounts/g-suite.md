@@ -1,2 +1,2 @@
-# G Suite
+# Connecting a G Suite account
 

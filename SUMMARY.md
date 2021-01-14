@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Connecting Accounts](connecting-accounts/README.md)
-  * [Gmail](connecting-accounts/gmail.md)
-  * [G Suite](connecting-accounts/g-suite.md)
+* [Step-by-step guides](connecting-accounts/README.md)
+  * [Connecting a Gmail account](connecting-accounts/gmail.md)
+  * [Connecting a G Suite account](connecting-accounts/g-suite.md)
 

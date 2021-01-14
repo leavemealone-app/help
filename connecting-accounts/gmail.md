@@ -2,7 +2,7 @@
 description: Step-by-step guide with pictures. 2-3 minutes to complete.
 ---
 
-# Gmail
+# Connecting a Gmail account
 
 ## Step 1 : Enable IMAP
 
