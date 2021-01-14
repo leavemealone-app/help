@@ -1,7 +1,7 @@
 ---
 description: >-
-  Step-by-step guide with pictures for connecting your Gmail account to Leave Me
-  Alone. Takes 2-3 minutes to complete.
+  Step-by-step guide for connecting your Gmail account to Leave Me Alone. Takes
+  2-3 minutes to complete.
 ---
 
 # Connecting a Gmail account
@@ -18,10 +18,6 @@ To scan your mailbox for emails, you need to enable IMAP for your Gmail account.
 
 ![](../.gitbook/assets/1-enable-imap-2.gif)
 
-{% hint style="success" %}
-### 👉 [Enable IMAP for your Gmail account](https://mail.google.com/mail/#settings/fwdandpop)
-{% endhint %}
-
 ## Step 2 : Turn on 2-Step Verification
 
 {% hint style="info" %}
@@ -34,10 +30,6 @@ If you don't have 2-Step Verification enabled then the next step won't work!
 
 ![](../.gitbook/assets/2-enable-2fa.gif)
 
-{% hint style="success" %}
-### [▶ Enable 2FA for your Google Account](https://myaccount.google.com/signinoptions/two-step-verification)
-{% endhint %}
-
 ## Step 3 : Create an App Password
 
 1. Go to your [Google Account](https://myaccount.google.com/) **Security tab** again.
@@ -47,10 +39,6 @@ If you don't have 2-Step Verification enabled then the next step won't work!
 5. **Copy the App Password** \(the 16-character code in the yellow bar on your device\) - don't forget this bit ️⚠️.
 
 ![](../.gitbook/assets/3-app-password.gif)
-
-{% hint style="success" %}
-### [▶ Create an app password](https://myaccount.google.com/apppasswords)
-{% endhint %}
 
 ## Done!
 
