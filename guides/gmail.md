@@ -1,8 +1,10 @@
 ---
-description: Step-by-step guide with pictures. 2-3 minutes to complete.
+description: Step-by-step guide for connecting your Gmail account to Leave Me Alone.
 ---
 
 # Connecting a Gmail account
+
+![](../.gitbook/assets/lma-plus-gmail%20%281%29.png)
 
 ## Step 1 : Enable IMAP
 
