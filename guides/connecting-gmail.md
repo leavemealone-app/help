@@ -12,7 +12,7 @@ description: >-
 
 To scan your mailbox for emails, you need to enable IMAP for your Gmail account.
 
-1. Go to your Gmail settings [**Forwarding and POP/IMAP**](https://mail.google.com/mail/#settings/fwdandpop) tab.
+1. Go to your Gmail settings [Forwarding and POP/IMAP](https://mail.google.com/mail/#settings/fwdandpop) tab.
 2. In the "IMAP access" section, select **Enable IMAP**.
 3. Click **Save Changes** \(don't forget this step ⚠️\).
 
@@ -38,9 +38,15 @@ If you don't have 2-Step Verification enabled then the next step won't work!
 4. Enter "**Leave Me Alone**" and choose **GENERATE**.
 5. **Copy the App Password** \(the 16-character code in the yellow bar on your device\) - don't forget this bit ️⚠️.
 
+{% hint style="info" %}
+Don't forget to copy your app password after you click **Generate**!
+{% endhint %}
+
 ![](../.gitbook/assets/3-app-password.gif)
 
-You can now connect your Gmail to [Leave Me Alone](https://leavemealone.app) using your email address and the App Password you just generated.
+All done!
+
+You can now connect your Gmail to [Leave Me Alone](https://leavemealone.app/) using your email address and the App Password you just generated.
 
 ## Troubleshooting
 
@@ -49,4 +55,8 @@ You can now connect your Gmail to [Leave Me Alone](https://leavemealone.app) usi
 You must [enable 2-step verification](connecting-gmail.md#step-2-turn-on-2-step-verification) for this setting to be available for your Google account.
 
 ![](../.gitbook/assets/setting-not-found.png)
+
+### Still need help?
+
+Submit a request [here](https://leavemealone.app/feedback) or email us at [support@leavemealone.app](mailto:support@leavemealone.app).
 

@@ -6,11 +6,11 @@ description: >-
 
 # Connecting a G Suite account
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ## Step 1: Manage app access control
 
-1. Sign in to your [Google Admin Console](https://admin.google.com/) and go to **Security**.
+1. [Sign in to your Google Admin Console](https://admin.google.com/) and go to **Security**.
 2. Scroll to the bottom and click **API Controls**.
 3. Under App access control click **MANAGE THIRD-PARTY APP ACCESS**.
 
@@ -36,6 +36,10 @@ Check the Client ID matches the one below.
 
 ![](../.gitbook/assets/2-configure.gif)
 
+All done!
+
+You can now sign-in to [Leave Me Alone](https://leavemealone.app/) using the Sign in with Google option.
+
 ## Troubleshooting
 
 ### App not found
@@ -50,5 +54,7 @@ If you see an error message "**App not found**" then you might be using the wron
 229643572503-d51b5c1infuudehgdlg1q0sigjella2h.apps.googleusercontent.com
 ```
 
+### Still need help?
 
+Submit a request [here](https://leavemealone.app/feedback) or email us at [support@leavemealone.app](mailto:support@leavemealone.app).
 
