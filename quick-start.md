@@ -4,15 +4,15 @@ So that we can scan your mailbox for subscription emails you need you need to co
 
 ## Select your email provider
 
-{% page-ref page="guides/gmail.md" %}
+{% page-ref page="guides/connecting-gmail.md" %}
 
-{% page-ref page="guides/g-suite.md" %}
+{% page-ref page="guides/connecting-g-suite.md" %}
 
 ## Don't see your email provider?
 
-You can connect using the guide for [Connecting any email account with IMAP](guides/other-imap.md).
+You can connect using the guide for [Connecting any email account with IMAP](guides/connecting-other-imap.md).
 
-{% page-ref page="guides/other-imap.md" %}
+{% page-ref page="guides/connecting-other-imap.md" %}
 
 
 
