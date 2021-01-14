@@ -18,19 +18,19 @@ To scan your mailbox for emails, you need to enable IMAP for your Gmail account.
 
 ![](../.gitbook/assets/1-enable-imap.gif)
 
-
+![](../.gitbook/assets/1-enable-imap-2.gif)
 
 ## Step 2 : Turn on 2-Step Verification
 
 {% hint style="info" %}
-
+If you don't have 2-Step Verification enabled then the next step won't work!
 {% endhint %}
 
 1. Go to your [Google Account](https://myaccount.google.com/) **Security** **tab**.
 2. On the _Signing in to Google_ panel, click [**2-Step Verification**](https://myaccount.google.com/signinoptions/two-step-verification).
 3. Click **Get started** and follow the steps.
 
-[_View these instructions in the Google support center instead._](https://support.google.com/accounts/answer/185839)![](/content/images/2019/12/gmail-2fa.png)
+![](../.gitbook/assets/2-enable-2fa.gif)
 
 ## Step 3 : Create an App Password
 
@@ -40,7 +40,7 @@ To scan your mailbox for emails, you need to enable IMAP for your Gmail account.
 4. Enter "**Leave Me Alone**" and choose **GENERATE**.
 5. **Copy the App Password** \(the 16-character code in the yellow bar on your device\) - don't forget this bit ️⚠️.
 
-[_View these instructions in the Google support center._](https://support.google.com/mail/answer/185833)![](/content/images/2019/12/gmail-app-password-1.png)![](/content/images/2021/01/3-app-password.png)
+![](../.gitbook/assets/3-app-password.gif)
 
 All done!
 
