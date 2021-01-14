@@ -40,7 +40,13 @@ If you don't have 2-Step Verification enabled then the next step won't work!
 
 ![](../.gitbook/assets/3-app-password.gif)
 
-## Done!
-
 You can now connect your Gmail to [Leave Me Alone](https://leavemealone.app) using your email address and the App Password you just generated.
+
+## Troubleshooting
+
+### The setting that you are looking for is not available for your account.
+
+You must [enable 2-step verification](connecting-gmail.md#step-2-turn-on-2-step-verification) for this setting to be available for your Google account.
+
+![](../.gitbook/assets/setting-not-found.png)
 

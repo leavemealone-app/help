@@ -38,13 +38,13 @@ Check the Client ID matches the one below.
 
 ## Troubleshooting
 
-### Problem: App not found
+### App not found
+
+If you see an error message "**App not found**" then you might be using the wrong app name.
 
 ![](../.gitbook/assets/screenshot-2021-01-14-at-12.59.58.png)
 
-### Solution: Use correct app name
-
-Make sure the app name is correct and **without spaces** "LeaveMeAlone". Or you can use our Client ID to search.
+**Solution:** make sure the app name is correct and **without spaces** "LeaveMeAlone". Or you can use our Client ID to search.
 
 ```text
 229643572503-d51b5c1infuudehgdlg1q0sigjella2h.apps.googleusercontent.com
