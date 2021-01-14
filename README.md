@@ -4,11 +4,13 @@ Welcome to the [**Leave Me Alone**](https://leavemealone.app) help centre, here 
 
 Are we missing something? [Let us know](https://leavemealone.app/feedback).
 
-### Quick Links
+### Get started
 
-{% page-ref page="problems/troubleshooting.md" %}
+{% page-ref page="quick-start.md" %}
 
 {% page-ref page="problems/faq.md" %}
+
+{% page-ref page="problems/troubleshooting.md" %}
 
 ## What is Leave Me Alone?
 

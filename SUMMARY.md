@@ -1,11 +1,13 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Quick start](quick-start.md)
 
 ## Step-by-step guides <a id="guides"></a>
 
 * [Connecting a Gmail account](guides/gmail.md)
 * [Connecting a G Suite account](guides/g-suite.md)
+* [Connecting any email account with IMAP](guides/other-imap.md)
 
 ## Having problems? <a id="problems"></a>
 
