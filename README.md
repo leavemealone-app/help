@@ -6,6 +6,8 @@ Are we missing something? [Let us know](https://leavemealone.app/feedback).
 
 ## Get started...
 
+{% page-ref page="quick-start.md" %}
+
 {% page-ref page="problems/faq.md" %}
 
 {% page-ref page="problems/troubleshooting.md" %}
