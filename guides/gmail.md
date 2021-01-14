@@ -1,5 +1,7 @@
 ---
-description: Step-by-step guide for connecting your Gmail account to Leave Me Alone.
+description: >-
+  Step-by-step guide with pictures for connecting your Gmail account to Leave Me
+  Alone. Takes 2-3 minutes to complete.
 ---
 
 # Connecting a Gmail account
@@ -8,13 +10,21 @@ description: Step-by-step guide for connecting your Gmail account to Leave Me Al
 
 ## Step 1 : Enable IMAP
 
+To scan your mailbox for emails, you need to enable IMAP for your Gmail account.
+
 1. Go to your Gmail settings [**Forwarding and POP/IMAP**](https://mail.google.com/mail/#settings/fwdandpop) tab.
 2. In the "IMAP access" section, select **Enable IMAP**.
 3. Click **Save Changes** \(don't forget this step ⚠️\).
 
-[_View these instructions in the Google support center instead._](https://support.google.com/mail/answer/7126229)
+![](../.gitbook/assets/1-enable-imap.gif)
+
+
 
 ## Step 2 : Turn on 2-Step Verification
+
+{% hint style="info" %}
+
+{% endhint %}
 
 1. Go to your [Google Account](https://myaccount.google.com/) **Security** **tab**.
 2. On the _Signing in to Google_ panel, click [**2-Step Verification**](https://myaccount.google.com/signinoptions/two-step-verification).
