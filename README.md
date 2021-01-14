@@ -4,8 +4,11 @@ Welcome to the [**Leave Me Alone**](https://leavemealone.app) help centre, here 
 
 ### Quick Links
 
-* How to connect your email account
-* How to unsubscribe from an email
+{% page-ref page="guides/" %}
+
+{% page-ref page="troubleshooting.md" %}
+
+{% page-ref page="faq.md" %}
 
 ## What is Leave Me Alone?
 
