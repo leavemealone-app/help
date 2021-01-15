@@ -16,7 +16,17 @@ To scan your mailbox for emails, you need to enable IMAP for your Gmail account.
 2. In the "IMAP access" section, select **Enable IMAP**.
 3. Click **Save Changes** \(don't forget this step ⚠️\).
 
+{% tabs %}
+{% tab title="View steps by video" %}
 ![](../.gitbook/assets/1-enable-imap-2.gif)
+{% endtab %}
+
+{% tab title="View steps in pictures" %}
+![](../.gitbook/assets/1-settings.png)
+{% endtab %}
+{% endtabs %}
+
+
 
 ## Step 2 : Turn on 2-Step Verification
 
