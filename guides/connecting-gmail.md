@@ -17,12 +17,14 @@ To scan your mailbox for emails, you need to enable IMAP for your Gmail account.
 3. Click **Save Changes** \(don't forget this step ⚠️\).
 
 {% tabs %}
-{% tab title="View steps by video" %}
+{% tab title="View steps in a video" %}
 ![](../.gitbook/assets/1-enable-imap-2.gif)
 {% endtab %}
 
-{% tab title="View steps in pictures" %}
-![](../.gitbook/assets/1-settings.png)
+{% tab title="View steps as pictures" %}
+![Go to your Gmail settings](../.gitbook/assets/1-settings.png)
+
+![Enable IMAP and click Save Changes](../.gitbook/assets/1gmail-settings-with-save-numbered.png)
 {% endtab %}
 {% endtabs %}
 
@@ -38,7 +40,17 @@ If you don't have 2-Step Verification enabled then the next step won't work!
 2. On the _Signing in to Google_ panel, click [**2-Step Verification**](https://myaccount.google.com/signinoptions/two-step-verification).
 3. Click **Get started** and follow the steps.
 
+{% tabs %}
+{% tab title="View steps in a video" %}
 ![](../.gitbook/assets/2-enable-2fa.gif)
+{% endtab %}
+
+{% tab title="View steps as pictures" %}
+![Go to your Security settings and turn on 2-Step Verification](../.gitbook/assets/2gmail-2fa.png)
+{% endtab %}
+{% endtabs %}
+
+
 
 ## Step 3 : Create an App Password
 
@@ -52,7 +64,15 @@ If you don't have 2-Step Verification enabled then the next step won't work!
 Don't forget to copy your app password after you click **Generate**!
 {% endhint %}
 
+{% tabs %}
+{% tab title="View steps in a video" %}
 ![](../.gitbook/assets/3-app-password.gif)
+{% endtab %}
+
+{% tab title="View steps as pictures" %}
+![](../.gitbook/assets/3-app-password.png)
+{% endtab %}
+{% endtabs %}
 
 All done!
 
