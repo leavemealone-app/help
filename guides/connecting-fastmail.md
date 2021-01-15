@@ -16,7 +16,23 @@ description: >-
 4. Select **Mail \(IMAP/POP/SMTP\)** access ****and click Generate Password.
 5. **Copy the App Password** - don't forget this bit ️⚠️.
 
+{% hint style="info" %}
+Don't forget to copy your app password after you click **Generate Password**!
+{% endhint %}
+
+{% tabs %}
+{% tab title="View steps as a video" %}
 ![](../.gitbook/assets/1-generate-pass.gif)
+{% endtab %}
+
+{% tab title="View steps as pictures" %}
+![Unlock your account to make changes and click New App Password](../.gitbook/assets/step1%20%285%29.png)
+
+![Select Custom... enter Name: &quot;Leave Me Alone&quot; Access: &quot;Mail \(IMAP/POP/SMTP\)&quot; and click Generate Password](../.gitbook/assets/step2%20%283%29.png)
+
+![Copy your App Password](../.gitbook/assets/step3.png)
+{% endtab %}
+{% endtabs %}
 
 All done!
 

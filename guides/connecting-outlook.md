@@ -13,9 +13,19 @@ description: >-
 
 1. Enter your email address and click **Connect to Microsoft**
 2. Sign in to your email account \(if not already signed in\)
-3. Click **Yes** to give Leave Me Alone access to scan your emails
+3. Review the permissions and click **Yes** to allow Leave Me Alone access to scan your emails
 
+{% tabs %}
+{% tab title="View steps in a video" %}
 ![](../.gitbook/assets/1-connect-onboarding.gif)
+{% endtab %}
+
+{% tab title="View steps as pictures" %}
+![Enter your email and click Connect to Microsoft](../.gitbook/assets/1-click-connect.png)
+
+![Review the permissions and click Yes to allow Leave Me Alone access to scan your emails](../.gitbook/assets/2-allow-perms.png)
+{% endtab %}
+{% endtabs %}
 
 All done!
 

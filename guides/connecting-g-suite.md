@@ -14,7 +14,15 @@ description: >-
 2. Scroll to the bottom and click **API Controls**.
 3. Under App access control click **MANAGE THIRD-PARTY APP ACCESS**.
 
+{% tabs %}
+{% tab title="View steps in a video" %}
 ![](../.gitbook/assets/1-manage-3rd-party-access.gif)
+{% endtab %}
+
+{% tab title="View steps as pictures" %}
+![Navigate to MANAGE THIRD-PARTY APP ACCESS](../.gitbook/assets/step1%20%284%29.png)
+{% endtab %}
+{% endtabs %}
 
 ## Step 2: Configure trusted apps
 
@@ -34,7 +42,21 @@ Check the Client ID matches the one below.
 4. **Check the box** to select the LeaveMeAlone Client ID and click **Select**.
 5. Choose **Trusted: Can access all Google services** and click **Configure**.
 
+{% tabs %}
+{% tab title="View steps in a video" %}
 ![](../.gitbook/assets/2-configure.gif)
+{% endtab %}
+
+{% tab title="View steps as pictures" %}
+![Configure a new OAuth app](../.gitbook/assets/step2_a.png)
+
+![Search for &quot;LeaveMeAlone&quot; and select the LeaveMeAlone app](../.gitbook/assets/step2_b%20%281%29.png)
+
+![Check the box to select MeAlone and click Select](../.gitbook/assets/step2_c%20%281%29.png)
+
+![Select Trusted and click Configure](../.gitbook/assets/step2_d%20%281%29.png)
+{% endtab %}
+{% endtabs %}
 
 All done!
 

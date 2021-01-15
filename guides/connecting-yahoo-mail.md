@@ -20,7 +20,17 @@ description: >-
 Don't forget to copy your app password after you click **Generate**!
 {% endhint %}
 
+{% tabs %}
+{% tab title="View steps as a video" %}
 ![](../.gitbook/assets/1-generate-pass%20%281%29.gif)
+{% endtab %}
+
+{% tab title="View steps as pictures" %}
+![Select Generate app password \(or Manage app passwords if you already have one setup\)](../.gitbook/assets/step1.png)
+
+![Select Other app, enter &quot;Leave Me Alone&quot; and click Generate, copy the app password](../.gitbook/assets/step2.png)
+{% endtab %}
+{% endtabs %}
 
 All done!
 

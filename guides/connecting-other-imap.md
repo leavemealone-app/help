@@ -21,7 +21,15 @@ You can usually find this by searching Google for "**&lt;your email account&gt; 
 3. Enter the IMAP host and port you found in [Step 1](connecting-other-imap.md#step-1-find-your-imap-details)
 4. Click **Connect account**
 
+{% tabs %}
+{% tab title="View steps as video" %}
 ![](../.gitbook/assets/1-connect.gif)
+{% endtab %}
+
+{% tab title="View steps as pictures" %}
+![Enter your email, password, IMAP host &amp; port from Step 1 and click Connect account](../.gitbook/assets/imap-other.png)
+{% endtab %}
+{% endtabs %}
 
 All done!
 
