@@ -96,6 +96,10 @@ Make sure that you're using the [app password generated in step 3](connecting-gm
 2. Enter your username and password, then enter the letters on the screen.  
 3. Go back to Leave Me Alone and try connecting again.
 
+{% hint style="info" %}
+Once you have completed the Display Unlock Captcha you have 10 minutes to connect your account.
+{% endhint %}
+
 ### Still need help?
 
 Submit a request [here](https://leavemealone.app/feedback) or email us at [support@leavemealone.app](mailto:support@leavemealone.app).
