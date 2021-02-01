@@ -86,6 +86,16 @@ You must [enable 2-step verification](connecting-gmail.md#step-2-turn-on-2-step-
 
 ![](../.gitbook/assets/setting-not-found.png)
 
+### The password is incorrect for this account
+
+Make sure that you're using the [app password generated in step 3](connecting-gmail.md#step-3-create-an-app-password) above.
+
+​​If you still can’t connect your account, try the following:  
+  
+1. On your device’s browser, go to [https://accounts.google.com/DisplayUnlockCaptcha](https://accounts.google.com/DisplayUnlockCaptcha).  
+2. Enter your username and password, then enter the letters on the screen.  
+3. Go back to Leave Me Alone and try connecting again.
+
 ### Still need help?
 
 Submit a request [here](https://leavemealone.app/feedback) or email us at [support@leavemealone.app](mailto:support@leavemealone.app).
