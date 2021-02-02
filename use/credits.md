@@ -10,7 +10,7 @@ Each credit you purchase or earn in Leave Me Alone lets you [unsubscribe ](unsub
 
 If you just need to unsubscribe from emails then you can purchase Top-up Credits. These come in packages of 50, 100, 200, and 300, so that you can choose the correct number of unsubscribes for you mailbox.
 
-You can see more information about our credit pricing on our 
+You can see more information about our credit pricing on our [price page](https://leavemealone.app/pricing).
 
 ### Monthly Credits
 
