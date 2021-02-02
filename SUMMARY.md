@@ -19,3 +19,9 @@
 * [FAQ](problems/faq.md)
 * [Troubleshooting](problems/troubleshooting.md)
 
+## Usage <a id="use"></a>
+
+* [Credits](use/credits.md)
+* [Unsubscribing](use/unsubscribing.md)
+* [Monthly Plans](use/plans.md)
+
