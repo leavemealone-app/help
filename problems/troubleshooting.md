@@ -20,3 +20,14 @@ If you click on those notifications then you can see how the unsubscribe failed,
   
 If you don't think this is right then it's also possible that the mailing list we unsubscribed you from is not following the rules correctly and even though you have unsubscribed they are still sending you emails.
 
+## Some emails in my Inbox are missing in Leave Me Alone
+
+{% hint style="info" %}
+See also: [I'm not seeing any emails in Leave Me Alone](troubleshooting.md#im-not-seeing-any-emails-in-leave-me-alone)
+{% endhint %}
+
+Sometimes we might not identify a subscription email in your inbox and it won't show up in the Leave Me Alone mail list.
+
+The best way for us to investigate why we're missing some of your subscriptions is to add 1-2 of the emails we aren't finding to [this form](https://airtable.com/shr6CwAxYzpcSURM4). We'll figure out what's happening and let you know when we find a solution.  
+
+
