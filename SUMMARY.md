@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Quick start](quick-start.md)
 
 ## Step-by-step guides <a id="guides"></a>
 
@@ -19,9 +18,10 @@
 * [FAQ](problems/faq.md)
 * [Troubleshooting](problems/troubleshooting.md)
 
-## Usage <a id="use"></a>
+## Usage
 
-* [Credits](use/credits.md)
-* [Unsubscribing](use/unsubscribing.md)
-* [Monthly Plans](use/plans.md)
+* [Credits](usage/credits.md)
+* [Unsubscribing](usage/unsubscribing.md)
+* [Monthly Plans](usage/plans.md)
+* [Rollups](usage/rollups.md)
 
