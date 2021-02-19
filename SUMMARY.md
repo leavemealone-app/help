@@ -24,4 +24,5 @@
 * [Unsubscribing](usage/unsubscribing.md)
 * [Monthly Plans](usage/plans.md)
 * [Rollups](usage/rollups.md)
+* [Tracking](usage/tracking.md)
 
