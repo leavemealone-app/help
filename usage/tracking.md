@@ -2,9 +2,9 @@
 
 In order to improve our onboarding flows \(and sometimes other parts of the Leave Me Alone app\), we run a tracking system called [Inspectlet](https://www.inspectlet.com). 
 
-Inspectlet records the actions that you take when you're using the Leave Me Alone website, and allows us to view it back later. This allows us to find parts of our system that might be confusing for you or difficult to understand, allowing us to make improvements over time.
+Inspectlet records the actions that you take when you're using the Leave Me Alone website, and allows us to view it back later. This allows us to find parts of our system that might be confusing for you or difficult to understand, meaning that we can make improvements over time.
 
-The recordings do not show any personal data such as passwords by instead showing XXXXs like this:
+The recordings do not show any personal data such as passwords, instead showing XXXXs like this:
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
