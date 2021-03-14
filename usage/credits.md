@@ -22,15 +22,11 @@ If you run out of credits in a month period then you can purchase a package of [
 
 When you purchase a plan you also receive a one-off bonus of [Top-up Credits](credits.md#top-up-credits) to use. These credits will not replenish.
 
-
-
-### Failed Unsubscribes
+## Failed Unsubscribes
 
 You are not charged if we don't successfully unsubscribe you. If an unsubscribe fails, then you are refunded the credit that you used. 
 
-
-
-### Why is it not free?
+## Why is it not free?
 
 So that we can provide a great, privacy-focused service, we charge a small amount for each unsubscribe.
 
