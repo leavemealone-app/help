@@ -23,6 +23,8 @@
 * [Credits](usage/credits.md)
 * [Unsubscribing](usage/unsubscribing.md)
 * [Monthly Plans](usage/plans.md)
-* [Rollups](usage/rollups.md)
+* [Rollups](usage/rollups/README.md)
+  * [FAQ](usage/rollups/faq.md)
+  * [Troubleshooting](usage/rollups/troubleshooting.md)
 * [Tracking](usage/tracking.md)
 
