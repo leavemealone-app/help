@@ -16,9 +16,19 @@ When you’re done unsubscribing, click the Rollup icon to combine the emails yo
 
 ![](../../.gitbook/assets/rollup-example-arrow.png)
 
-## Need help?
+## How does Rollups work?
 
-Questions or problems? Check out these articles:
+Rollups is super simple!
+
+When you create a Rollup we automatically create the first issue and are ready to start watching.
+
+When you add a senders email address we'll watch your mailboxes for emails that come from that sender and move them out of your inbox so they don't distract you.
+
+When it's your chosen day and time we'll send you an email with all the mail you received in your Rollup in the past week!
+
+## Questions or problems?
+
+Check out these articles:
 
 {% page-ref page="faq.md" %}
 
