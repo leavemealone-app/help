@@ -26,11 +26,21 @@ When you add a senders email address we'll watch your mailboxes for emails that 
 
 When it's your chosen day and time we'll send you an email with all the mail you received in your Rollup in the past week!
 
-## Questions or problems?
+## What is an issue?
 
-Check out these articles:
+Your Rollup is like a magazine or newspaper. Each time we send your Rollup we're sending you the next issue in your regular series of weekly digest emails.
 
-{% page-ref page="faq.md" %}
+When you create your Rollup we automatically create the first issue for you \(Issue \#1\). When you receive an issue the next one will be automatically created \(Issue \#2, Issue \#3 etc\). This provides a way for you to see and read the previous Rollups you have received easily!
+
+![See and read all of your past issues from the Rollup page](../../.gitbook/assets/issues.png)
+
+## Next steps:
+
+Learn more about Rollups and how they work in our [Get started](get-started.md) article:
+
+{% page-ref page="get-started.md" %}
+
+Having problems? Check out our common troubleshooting articles:
 
 {% page-ref page="troubleshooting.md" %}
 
