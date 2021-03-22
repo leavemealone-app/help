@@ -8,6 +8,8 @@ Are we missing something? [Let us know](https://leavemealone.app/feedback).
 
 So that we can scan your mailbox for subscription emails you need you need to connect your email account to Leave Me Alone.
 
+### Step-by-step guides
+
 To get help with this you can use the step-by-step guide for your mail provider:
 
 ## Having problems?
