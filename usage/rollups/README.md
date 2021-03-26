@@ -36,9 +36,9 @@ When you create your Rollup we automatically create the first issue for you \(Is
 
 ## Next steps:
 
-Learn more about Rollups and how they work in our [Get started](get-started.md) article:
+Learn more about Rollups and how they work in our [Get started](learn-more.md) article:
 
-{% page-ref page="get-started.md" %}
+{% page-ref page="learn-more.md" %}
 
 Having problems? Check out our common troubleshooting articles:
 

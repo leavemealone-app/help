@@ -24,7 +24,7 @@
 * [Unsubscribing](usage/unsubscribing.md)
 * [Monthly Plans](usage/plans.md)
 * [Rollups](usage/rollups/README.md)
-  * [Learn more](usage/rollups/get-started.md)
+  * [Learn more](usage/rollups/learn-more.md)
   * [Troubleshooting](usage/rollups/troubleshooting.md)
 * [Tracking](usage/tracking.md)
 

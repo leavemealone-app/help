@@ -87,7 +87,7 @@ Yes you can still see the emails in the **\_lma-rollups** folder in your email c
 You cannot delete emails from your Rollup in Leave Me Alone, but you can delete the emails in the **\_lma-rollups** folder in your email client.
 
 {% hint style="info" %}
-Deleting an email from the Rollups folder does not unsubscribe you or stop that sender from being rolled up. If you want to stop an email being part of your Rollup you can follow the steps to remove a sender [here](get-started.md#how-can-i-remove-a-sender-from-a-rollup).
+Deleting an email from the Rollups folder does not unsubscribe you or stop that sender from being rolled up. If you want to stop an email being part of your Rollup you can follow the steps to remove a sender [here](learn-more.md#how-can-i-remove-a-sender-from-a-rollup).
 {% endhint %}
 
 ![Where to find your Rollups folder in Gmail.](../../.gitbook/assets/gmail-rollups.png)
