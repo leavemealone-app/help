@@ -1,4 +1,4 @@
-# Get started
+# Learn more
 
 ## How can I create a Rollup?
 
@@ -74,6 +74,14 @@ You can remove a sender one of 2 ways:
 1. Click the Rollup icon on the mail list and uncheck the Rollup.
 2. Navigate to the senders list for a Rollup and click the remove button.
 
+## Can I still see rolled up emails in my mailbox?
+
+Yes you can still see the emails in the **\_lma-rollups** folder in your email client. These emails will always be in your client even if you disable or delete a Rollup or deactivate your Leave Me Alone account.
+
+![Where to find your Rollups folder in Gmail.](../../.gitbook/assets/gmail-rollups.png)
+
+## 
+
 ## Can I delete emails in my Rollup?
 
 You cannot delete emails from your Rollup in Leave Me Alone, but you can delete the emails in the **\_lma-rollups** folder in your email client.
@@ -83,8 +91,6 @@ Deleting an email from the Rollups folder does not unsubscribe you or stop that 
 {% endhint %}
 
 ![Where to find your Rollups folder in Gmail.](../../.gitbook/assets/gmail-rollups.png)
-
-
 
 ## How can I delete my Rollup?
 
