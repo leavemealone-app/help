@@ -28,3 +28,7 @@
 * [Tracking](usage/tracking.md)
 * [Plans](usage/plans.md)
 
+---
+
+* [Cookies](cookies.md)
+
