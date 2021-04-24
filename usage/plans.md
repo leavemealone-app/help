@@ -1,4 +1,19 @@
+---
+description: What monthly plans do you have and what do I get?
+---
+
 # Plans
+
+**Casual Emailer** let's you enable 1 Rollup and receive it once per week. You also get 50 unsubscribe credits per month.  
+**Inbox Zero Hero** let's you enable 10 Rollups and receive them on multiple days or every day - you decide! You also get 200 unsubscribe credits per month.
+
+![](../.gitbook/assets/image%20%2831%29.png)
+
+## Do you have a free trial?
+
+Yes! You can create and enable your first Rollup and we'll send you the first issue for free!
+
+If you like your digest email and want to keep receiving issues then you'll need to upgrade to one of our paid plans.
 
 ## How can I upgrade my plan?
 

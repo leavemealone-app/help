@@ -12,11 +12,13 @@ Or going to the [Rollups page](https://leavemealone.app/app/rollups) and clickin
 
 ## How often can I receive my Rollup?
 
-You'll receive your Rollup digest email once per week, and you chose the day and time.
+You can choose to receive your Rollup daily or weekly and you choose the day and time.
 
-We plan to add more flexible scheduling in the future, please let us know if you'd be interested in this.
+{% hint style="info" %}
+Daily Rollups are only available on our **Inbox Zero Hero** plan ✨
+{% endhint %}
 
-![You choose the day and time you want to receive your Rollup](../../.gitbook/assets/image%20%2820%29.png)
+![You decide when to receive your Rollup!](../../.gitbook/assets/image%20%2828%29.png)
 
 ## Can I change when I receive my Rollup?
 
@@ -36,7 +38,7 @@ You can disable a Rollup at any time by clicking the toggle from the Rollups lis
 
 1. All previously rolled up emails will stay in your "\_lma-rollups" folder.
 2. Future emails from senders in that Rollup will not be watched or moved out of your inbox.
-3. You won't receive any more weekly digest emails for that Rollup.
+3. You won't receive any more digest emails for that Rollup.
 4. You can re-enable your Rollup at at any time.
 
 {% hint style="info" %}
