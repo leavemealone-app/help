@@ -1,5 +1,5 @@
 ---
-description: 'Learn more about our Rollups, and how to add senders to your weekly digest.'
+description: 'Learn more about our Rollups, and how to add senders to your digests.'
 ---
 
 # Rollups
@@ -12,7 +12,7 @@ Then Rollups is for you!
 
 Rollups are personalized collections of your favorite newsletters, sent as a single email.
 
-When you’re done unsubscribing, click the Rollup icon to combine the emails you love to read into a beautiful weekly digest.
+When you’re done unsubscribing, click the Rollup icon to combine the emails you love to read into a beautiful digests.
 
 ![](../../.gitbook/assets/rollup-example-arrow.png)
 
@@ -24,11 +24,11 @@ When you create a Rollup we automatically create the first issue and are ready t
 
 When you add a senders email address we'll watch your mailboxes for emails that come from that sender and move them out of your inbox so they don't distract you.
 
-When it's your chosen day and time we'll send you an email with all the mail you received in your Rollup in the past week!
+When it's your chosen day and time we'll send you an email with all the mail you received in your Rollup since the last issue!
 
 ## What is an issue?
 
-Your Rollup is like a magazine or newspaper. Each time we send your Rollup we're sending you the next issue in your regular series of weekly digest emails.
+Your Rollup is like a magazine or newspaper. Each time we send your Rollup we're sending you the next issue in your regular series of digest emails.
 
 When you create your Rollup we automatically create the first issue for you \(Issue \#1\). When you receive an issue the next one will be automatically created \(Issue \#2, Issue \#3 etc\). This provides a way for you to see and read the previous Rollups you have received easily!
 
