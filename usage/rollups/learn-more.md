@@ -67,7 +67,13 @@ You can tell which emails are in a Rollup from the Mail List by the filled in Ro
 
 ## Can I manually add a sender to a Rollup?
 
-Not right now. The only way to add a sender to a Rollup is by using the Rollup button on the Mail List.
+Yes you can! You can add any sender to a Rollup using the 'Add sender manually' button from the senders list for your Rollup.
+
+{% hint style="info" %}
+The **to address** of the email can only be one of your connected accounts
+{% endhint %}
+
+![Go to your Rollup, click senders, and click &apos;Add sender manually&apos;](../../.gitbook/assets/image%20%2833%29.png)
 
 ## How can I remove a sender from a Rollup?
 
