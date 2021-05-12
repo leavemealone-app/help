@@ -13,12 +13,7 @@
 * [Connecting a Fastmail account](guides/connecting-fastmail.md)
 * [Connecting any email account with IMAP](guides/connecting-other-imap.md)
 
-## Having problems? <a id="problems"></a>
-
-* [FAQ](problems/faq.md)
-* [Troubleshooting](problems/troubleshooting.md)
-
-## Usage
+## Using Leave Me Alone <a id="usage"></a>
 
 * [Credits](usage/credits.md)
 * [Unsubscribing](usage/unsubscribing.md)
@@ -26,7 +21,11 @@
   * [Learn more](usage/rollups/learn-more.md)
   * [Troubleshooting](usage/rollups/troubleshooting.md)
 * [Plans](usage/plans.md)
-* [Tracking](usage/tracking.md)
+
+## Having problems? <a id="problems"></a>
+
+* [FAQ](problems/faq.md)
+* [Troubleshooting](problems/troubleshooting.md)
 
 ---
 
