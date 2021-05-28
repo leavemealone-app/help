@@ -4,7 +4,7 @@ description: >-
   1-2 minutes to complete.
 ---
 
-# Connecting any email account with IMAP
+# How to connect any email account with IMAP
 
 ![](../.gitbook/assets/lma+anything.png)
 

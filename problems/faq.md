@@ -24,15 +24,5 @@ If you change the name of this folder then the original folder will still exist 
 
 If you have already unsubscribed without this setting enabled then can still I'm afraid we can't move these emails, but we are working on a way to do this in the future!
 
-## How can I delete my account?
-
-{% hint style="danger" %}
-**WARNING:** This is permanent and cannot be undone!
-{% endhint %}
-
-You can deactivate your account [here](https://leavemealone.app/app/danger/deactivate). This will delete all of your data, revoke your API keys, and sign you out.
-
-You will still be able to create an account again to clean your inbox in the future.
-
 
 

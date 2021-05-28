@@ -4,7 +4,7 @@ description: >-
   Takes 1 minute to complete.
 ---
 
-# Connecting a Yahoo Mail account
+# How to connect a Yahoo Mail account
 
 ![](../.gitbook/assets/image%20%282%29.png)
 

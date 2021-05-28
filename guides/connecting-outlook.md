@@ -5,7 +5,7 @@ description: >-
   complete.
 ---
 
-# Connecting an Outlook account
+# How to connect an Outlook account
 
 ![](../.gitbook/assets/lma+outlook.png)
 

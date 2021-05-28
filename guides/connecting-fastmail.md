@@ -4,7 +4,7 @@ description: >-
   Takes 1 minute to complete.
 ---
 
-# Connecting a Fastmail account
+# How to connect a Fastmail account
 
 ![](../.gitbook/assets/image%20%281%29.png)
 

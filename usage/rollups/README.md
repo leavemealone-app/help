@@ -1,44 +1,124 @@
----
-description: 'Learn more about our Rollups, and how to add senders to your digests.'
----
-
-# Rollups
+# What are Rollups?
 
 Do you receive newsletters that you love to receive but that are always lost in the noise of your inbox or you never have time to read your favorite emails when they arrive because you're busy or distracted?
 
 Then Rollups is for you!
 
-## What is a Rollup?
+## How can I create a Rollup?
 
-Rollups are personalized collections of your favorite newsletters, sent as a single email.
+You can create a new Rollup from the [Rollups page](https://leavemealone.app/app/rollups) and clicking **Create New Rollup**.
 
-When you’re done unsubscribing, click the Rollup icon to combine the emails you love to read into a beautiful digests.
+![](../../.gitbook/assets/new.png)
 
-![](../../.gitbook/assets/rollup-example-arrow.png)
+## How often can I receive my Rollup?
 
-## How does Rollups work?
+You can choose to receive your Rollup daily or weekly and you choose the day and time.
 
-Rollups is super simple!
+{% hint style="info" %}
+Daily Rollups are only available on our **Inbox Zero Hero** plan ✨
+{% endhint %}
 
-When you create a Rollup we automatically create the first issue and are ready to start watching.
+![You decide when to receive your Rollup!](../../.gitbook/assets/image%20%2828%29.png)
 
-When you add a senders email address we'll watch your mailboxes for emails that come from that sender and move them out of your inbox so they don't distract you.
+## Can I change when I receive my Rollup?
 
-When it's your chosen day and time we'll send you an email with all the mail you received in your Rollup since the last issue!
+Yes! You can edit your Rollup schedule by clicking the chevron icon and clicking Edit.
 
-## What is an issue?
+{% hint style="info" %}
+We recommend you don't do this very often.
+{% endhint %}
 
-Your Rollup is like a magazine or newspaper. Each time we send your Rollup we're sending you the next issue in your regular series of digest emails.
+![To edit your Rollup click the chevron and click edit.](../../.gitbook/assets/image%20%2818%29.png)
 
-When you create your Rollup we automatically create the first issue for you \(Issue \#1\). When you receive an issue the next one will be automatically created \(Issue \#2, Issue \#3 etc\). This provides a way for you to see and read the previous Rollups you have received easily!
+## Can I pause or deactivate a Rollup?
 
-![See and read all of your past issues from the Rollup page](../../.gitbook/assets/issues.png)
+You can disable a Rollup at any time by clicking the toggle from the Rollups list or on the Rollup page. We will pause watching your mailboxes for the senders in that Rollup and you won't receive any more digest emails until you enable it again.
 
-## Next steps:
+**What happens when you disable your Rollup:**
 
-Learn more about Rollups and how they work in our [Get started](learn-more.md) article:
+1. All previously rolled up emails will stay in your "\_lma-rollups" folder.
+2. Future emails from senders in that Rollup will not be watched or moved out of your inbox.
+3. You won't receive any more digest emails for that Rollup.
+4. You can re-enable your Rollup at at any time.
 
-{% page-ref page="learn-more.md" %}
+{% hint style="info" %}
+Disabled Rollups do not count towards your monthly plan limits!
+{% endhint %}
+
+![Disable and pause your Rollup by clicking the toggle from the list.](../../.gitbook/assets/enabled.png)
+
+## How many senders can I add to a Rollup?
+
+As many as you like!
+
+## How can I see which emails are being Rolled up?
+
+You can see the emails you've added to a Rollup by clicking on **Senders** in the navigation on the right. You can also remove senders from being Rolled up here if you wish.
+
+{% hint style="info" %}
+Remember that when you remove a sender all emails for that sender will be removed from your current and previous Rollup issues.
+{% endhint %}
+
+![](../../.gitbook/assets/rollups-sender-list.png)
+
+You can tell which emails are in a Rollup from the Mail List by filtering by rolled-up:
+
+![](../../.gitbook/assets/image%20%2836%29.png)
+
+
+
+## Can I manually add a sender to a Rollup?
+
+Yes you can! You can add any sender to a Rollup using the 'Add sender manually' button from the senders list for your Rollup.
+
+{% hint style="info" %}
+The **to address** of the email can only be one of your connected accounts
+{% endhint %}
+
+![Go to your Rollup, click senders, and click &apos;Add sender manually&apos;](../../.gitbook/assets/image%20%2833%29.png)
+
+## How can I remove a sender from a Rollup?
+
+You can remove a sender one of 2 ways:
+
+1. Click the Rollup button on the mail list.
+2. Navigate to the senders list for a Rollup and click the remove button.
+
+## Can I still see rolled up emails in my mailbox?
+
+Yes you can still see the emails in the **\_lma-rollups** folder in your email client. These emails will always be in your client even if you disable or delete a Rollup or deactivate your Leave Me Alone account.
+
+![Where to find your Rollups folder in Gmail.](../../.gitbook/assets/gmail-rollups.png)
+
+## 
+
+## Can I delete emails in my Rollup?
+
+You cannot delete emails from your Rollup in Leave Me Alone, but you can delete the emails in the **\_lma-rollups** folder in your email client.
+
+{% hint style="info" %}
+Deleting an email from the Rollups folder does not unsubscribe you or stop that sender from being rolled up. If you want to stop an email being part of your Rollup you can follow the steps to remove a sender [here](./#how-can-i-remove-a-sender-from-a-rollup).
+{% endhint %}
+
+![Where to find your Rollups folder in Gmail.](../../.gitbook/assets/gmail-rollups.png)
+
+## How can I delete my Rollup?
+
+{% hint style="danger" %}
+**WARNING:** This is permanent and cannot be undone!
+{% endhint %}
+
+You can delete your Rollup from the Rollups page [here](https://leavemealone.app/app/rollups). Click the chevron and click the delete option.
+
+* You won't be able to read this Rollup in Leave Me Alone any more.
+* We will stop watching for emails from senders in this Rollup.
+* We won't move emails in this Rollup out of your Inbox any more.
+
+![To delete your Rollup click the chevron and click delete](../../.gitbook/assets/image%20%2814%29.png)
+
+
+
+## Having problems?
 
 Having problems? Check out our common troubleshooting articles:
 

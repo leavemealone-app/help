@@ -4,7 +4,7 @@ description: >-
   2-3 minutes to complete.
 ---
 
-# Connecting a Gmail account
+# How to connect a Gmail account
 
 ![](../.gitbook/assets/lma-plus-gmail%20%281%29.png)
 

@@ -4,7 +4,7 @@ description: >-
   Takes 1 minute to complete.
 ---
 
-# Connecting an iCloud Mail account
+# How to connect an iCloud Mail account
 
 ![](../.gitbook/assets/image.png)
 

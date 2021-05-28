@@ -4,7 +4,7 @@ description: >-
   Takes 1 minute to complete.
 ---
 
-# Connecting an AOL Mail account
+# How to connect an AOL Mail account
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
