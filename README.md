@@ -6,11 +6,25 @@ Are we missing something? [Let us know](https://leavemealone.app/feedback).
 
 ## Start here
 
+{% page-ref page="start-here/how-to-connect-your-email-account.md" %}
 
+{% page-ref page="start-here/how-to-unsubscribe-from-an-email.md" %}
 
-### Step-by-step guides
+{% page-ref page="start-here/how-to-add-an-email-to-your-rollup.md" %}
 
-To get help with this you can use the step-by-step guide for your mail provider:
+{% page-ref page="start-here/how-to-keep-an-email-in-your-inbox.md" %}
+
+## Account and billing
+
+{% page-ref page="account/plans.md" %}
+
+{% page-ref page="account/how-to-delete-your-account.md" %}
+
+## Dive deeper
+
+{% page-ref page="usage/credits.md" %}
+
+{% page-ref page="usage/rollups/" %}
 
 ## Having problems?
 
@@ -19,6 +33,4 @@ Check out the following articles:
 {% page-ref page="problems/faq.md" %}
 
 {% page-ref page="problems/troubleshooting.md" %}
-
-
 

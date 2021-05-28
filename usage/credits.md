@@ -4,7 +4,7 @@ description: What are credits and how do they work?
 
 # What are credits?
 
-Each credit you purchase or earn in Leave Me Alone lets you [unsubscribe ](../start-here/unsubscribing.md)from **one email** in the mail list.
+Each credit you purchase or earn in Leave Me Alone lets you [unsubscribe ](../start-here/how-to-unsubscribe-from-an-email.md)from **one email** in the mail list.
 
 ### Top-up Credits
 

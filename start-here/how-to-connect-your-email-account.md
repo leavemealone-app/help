@@ -1,4 +1,4 @@
-# How to connect your email account to Leave Me Alone
+# How to connect your email account
 
 So that we can scan your mailboxes for subscription emails you need you need to connect your email account to Leave Me Alone. Simply enter your email address on the [add account page](https://leavemealone.app/app/profile/accounts) and follow the steps to get connected!
 

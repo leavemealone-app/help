@@ -4,8 +4,8 @@
 
 ## Start here
 
-* [How to connect your email account to Leave Me Alone](start-here/how-to-connect-your-email-account-to-leave-me-alone.md)
-* [How to unsubscribe from an email](start-here/unsubscribing.md)
+* [How to connect your email account](start-here/how-to-connect-your-email-account.md)
+* [How to unsubscribe from an email](start-here/how-to-unsubscribe-from-an-email.md)
 * [How to add an email to your Rollup](start-here/how-to-add-an-email-to-your-rollup.md)
 * [How to keep an email in your inbox](start-here/how-to-keep-an-email-in-your-inbox.md)
 

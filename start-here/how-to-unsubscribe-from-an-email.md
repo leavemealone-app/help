@@ -1,6 +1,6 @@
 # How to unsubscribe from an email
 
-Once you've connected your accounts you'll start to see your subscription emails in Leave Me Alone. If you didn't connect any accounts yet then do [go here](how-to-connect-your-email-account-to-leave-me-alone.md) and that first!
+Once you've connected your accounts you'll start to see your subscription emails in Leave Me Alone. If you didn't connect any accounts yet then do [go here](how-to-connect-your-email-account.md) and that first!
 
 To unsubscribe from the emails you don't want just click the unsubscribe button and we will do the hard work for you!
 
