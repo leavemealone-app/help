@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the [**Leave Me Alone**](https://leavemealone.app) help center, here you'll find everything you need to setup and use Leave Me Alone to get a cleaner inbox by unsubscribing from unwanted emails.
+Welcome to the [**Leave Me Alone**](https://leavemealone.app) help center. Here you'll find everything you need to setup and use Leave Me Alone to get a cleaner inbox by unsubscribing from unwanted emails.
 
 Are we missing something? [Let us know](https://leavemealone.app/feedback).
 
