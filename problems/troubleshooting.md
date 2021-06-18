@@ -14,7 +14,7 @@ For example when we try and unsubscribe you we might sometimes get a response li
 
 If we reach a screen like this that we don't know how to deal with then we show you a notification \(that maybe you might have missed\). It looks like this;
 
-![](../.gitbook/assets/failed-unsub.jpg)
+![Click the &apos;Unsub failed&apos; button to see more details](../.gitbook/assets/failed-unsub.png)
 
 If you click on those notifications then you can see how the unsubscribe failed, and easily fix it manually. **You are not charged any credits when this happens.**  
   
