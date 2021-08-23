@@ -1,5 +1,5 @@
 ---
-description: What are credits and how do they work?
+description: What are unsubscribe credits and how do they work?
 ---
 
 # What are credits?
@@ -15,10 +15,6 @@ These come in packages of 50, 100, 200, and 300, so that you can choose the corr
 ### Monthly Credits
 
 When you purchase a Leave Me Alone monthly plan you'll receive **unlimited** **unsubscribes**, and get access to more features like [Rollups](https://leavemealone.app/rollups) and Inbox Shield.
-
-
-
-You can see more information about our credit pricing on our [price page](https://leavemealone.app/pricing).
 
 ## Failed Unsubscribes
 

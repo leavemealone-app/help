@@ -1,3 +1,7 @@
+---
+description: What is Rollups and can I help organize your inbox?
+---
+
 # What are Rollups?
 
 Do you receive newsletters that you love to receive but that are always lost in the noise of your inbox or you never have time to read your favorite emails when they arrive because you're busy or distracted?

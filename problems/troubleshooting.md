@@ -8,9 +8,9 @@ Sometimes the scan can get stuck. This can usually be resolved by restarting the
 
 Sometimes this can happen on the occasions where we failed to unsubscribe you.
 
-For example when we try and unsubscribe you we might sometimes get a response like this, which requires further input. We try and account for these, but they are constantly changing so sometimes we require your manual input.
+For example when we try and unsubscribe you we might sometimes get a response like this, which requires further input.
 
-![Unsubscribe form that requires additional manual input](https://d33v4339jhl8k0.cloudfront.net/inline/101922/b1184916c7fa0049d425f75b767b7aaf59822cde/f2f1783e3d5ee35fd1569bdcbd5a569d11ed4e6a/unnamed.png)
+![Unsubscribe form that requires additional manual input](../.gitbook/assets/manual-unsub-steps2.png)
 
 If we reach a screen like this that we don't know how to deal with then we show you a notification \(that maybe you might have missed\). It looks like this;
 
