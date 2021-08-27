@@ -8,7 +8,7 @@ Sometimes the scan can get stuck. This can usually be resolved by restarting the
 
 Sometimes when we try and unsubscribe you we might get a response that requires logging in or following extra steps.
 
-If we reach a screen like this that we don't know how to deal with then we show you a notification \(that maybe you might have missed\). It looks like this;
+If we reach a screen like this that we don't know how to deal with then we show you a notification \(that maybe you might have missed\). You can spot a failed unsubscribe in the mail list as it looks like this;
 
 ![Click the &apos;Unsub failed&apos; button to see more details](../.gitbook/assets/image%20%2841%29.png)
 
