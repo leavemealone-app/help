@@ -4,6 +4,20 @@
 
 Sometimes the scan can get stuck. This can usually be resolved by restarting the scan, you can do this by visiting your [profile settings here](https://leavemealone.app/app/profile), scrolling to the bottom, and clicking the button "Clear Local Emails". Now when you go back to the mail list page it should restart the scan and hopefully it work this time!
 
+## I'm seeing a lot of failed unsubscribes
+
+Sometimes when we try and unsubscribe you we might get a response that requires logging in or following extra steps.
+
+If we reach a screen like this that we don't know how to deal with then we show you a notification \(that maybe you might have missed\). It looks like this;
+
+![Click the &apos;Unsub failed&apos; button to see more details](../.gitbook/assets/image%20%2841%29.png)
+
+If you click on those notifications then you can see how the unsubscribe failed, and easily fix it manually. **You are not charged any credits when this happens.**  
+  
+You can also filter the mail list by '**failed**' to see all failed unsubscribes like this;
+
+![Use the &quot;failed&quot; filter to see all failed unsubscribes](../.gitbook/assets/filter-failed-unsubs.png)
+
 ## I'm still getting emails from senders I unsubscribed from
 
 Sometimes this can happen on the occasions where we failed to unsubscribe you.
@@ -12,12 +26,12 @@ For example when we try and unsubscribe you we might sometimes get a response li
 
 ![Unsubscribe form that requires additional manual input](../.gitbook/assets/manual-unsub-steps2.png)
 
-If we reach a screen like this that we don't know how to deal with then we show you a notification \(that maybe you might have missed\). It looks like this;
+If we reach a screen like this that we don't know how to deal with then we show you a notification \(that maybe you might have missed\). You can spot a failed unsubscribe in the mail list as it looks like this;
 
 ![Click the &apos;Unsub failed&apos; button to see more details](../.gitbook/assets/failed-unsub.png)
 
-If you click on those notifications then you can see how the unsubscribe failed, and easily fix it manually. **You are not charged any credits when this happens.**  
-  
+If you click on those notifications then you can see how the unsubscribe failed, and easily fix it manually. **You are not charged any credits when this happens.**
+
 If you don't think this is right then it's also possible that the mailing list we unsubscribed you from is not following the rules correctly and even though you have unsubscribed they are still sending you emails.
 
 ## Some emails in my Inbox are missing in Leave Me Alone
