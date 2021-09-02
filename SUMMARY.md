@@ -21,8 +21,9 @@
 
 ## Using Leave Me Alone <a id="usage"></a>
 
-* [What are credits?](usage/credits.md)
-* [What are Rollups?](usage/rollups/README.md)
+* [How to use credits to unsubscribe](usage/credits.md)
+* [How to search, sort, and filter your mail](usage/how-to-search-sort-and-filter-your-mail.md)
+* [How to create and use Rollups](usage/rollups/README.md)
   * [Troubleshooting](usage/rollups/troubleshooting.md)
 
 ## Account & Billing <a id="account"></a>

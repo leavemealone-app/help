@@ -2,7 +2,7 @@
 description: What are unsubscribe credits and how do they work?
 ---
 
-# What are credits?
+# How to use credits to unsubscribe
 
 Each credit you purchase or earn in Leave Me Alone lets you [unsubscribe ](../start-here/how-to-unsubscribe-from-an-email.md)from **one email** in the mail list.
 

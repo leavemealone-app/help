@@ -14,17 +14,21 @@ Are we missing something? [Let us know](https://leavemealone.app/feedback).
 
 {% page-ref page="start-here/how-to-keep-an-email-in-your-inbox.md" %}
 
+## Dive deeper
+
+
+
+{% page-ref page="usage/credits.md" %}
+
+{% page-ref page="usage/rollups/" %}
+
 ## Account and billing
 
 {% page-ref page="account/plans.md" %}
 
 {% page-ref page="account/how-to-delete-your-account.md" %}
 
-## Dive deeper
 
-{% page-ref page="usage/credits.md" %}
-
-{% page-ref page="usage/rollups/" %}
 
 ## Having problems?
 

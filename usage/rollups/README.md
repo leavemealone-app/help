@@ -1,8 +1,8 @@
 ---
-description: What is Rollups and can I help organize your inbox?
+description: What are Rollups and how can they help me stay organised?
 ---
 
-# What are Rollups?
+# How to create and use Rollups
 
 Do you receive newsletters that you love to receive but that are always lost in the noise of your inbox or you never have time to read your favorite emails when they arrive because you're busy or distracted?
 
@@ -33,6 +33,36 @@ We recommend you don't do this very often.
 {% endhint %}
 
 ![To edit your Rollup click the chevron and click edit.](../../.gitbook/assets/image%20%2818%29.png)
+
+## Can I change how my Rollup looks?
+
+Yes! If you are on our Hero plan then you can select from 3 different layout options depending on your needs;
+
+**Featured view** - image previews from your most read senders  
+**Detailed view** - subject lines for every email for more info  
+**Compact view** - overview of total emails for quick viewing
+
+![Choose your layout when you create or edit a Rollup](../../.gitbook/assets/layouts.png)
+
+Here's an example of the same Rollup in the different layout options;
+
+{% hint style="info" %}
+**If you change a Rollups layout it will only affect the current watching issue and future issues. It will not change the layout of issues you have already recieved.**
+{% endhint %}
+
+### **Featured view**
+
+![](../../.gitbook/assets/layout-featured%20%281%29.png)
+
+### **Detailed view**
+
+![](../../.gitbook/assets/layout-detailed%20%281%29.png)
+
+### **Compact view**
+
+![](../../.gitbook/assets/layout-compact.png)
+
+
 
 ## Can I pause or deactivate a Rollup?
 
@@ -93,8 +123,6 @@ You can remove a sender one of 2 ways:
 Yes you can still see the emails in the **\_lma-rollups** folder in your email client. These emails will always be in your client even if you disable or delete a Rollup or deactivate your Leave Me Alone account.
 
 ![Where to find your Rollups folder in Gmail.](../../.gitbook/assets/gmail-rollups.png)
-
-## 
 
 ## Can I delete emails in my Rollup?
 
