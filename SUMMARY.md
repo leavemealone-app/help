@@ -25,7 +25,7 @@
 * [How to search, sort, and filter your mail](usage/filters.md)
 * [How to create and use Rollups](usage/rollups/README.md)
   * [Troubleshooting](usage/rollups/troubleshooting.md)
-* [How to use Inbox Shield](usage/how-to-use-inbox-shield.md)
+* [How to use Inbox Shield](usage/shield.md)
 
 ## Account & Billing <a id="account"></a>
 
