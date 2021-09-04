@@ -14,7 +14,7 @@ After you connect your email account to Leave Me Alone and **enable Shield**, we
 
 ### How do I enable Shield?
 
-Visit the [Shield Dashboard](http://local.leavemealone.xyz/app/shield) and click the "Shields Up" toggle.
+Visit the [Shield Dashboard](https://leavemealone.app/app/shield) and click the "Shields Up" toggle.
 
 ![](../.gitbook/assets/image%20%2842%29.png)
 
