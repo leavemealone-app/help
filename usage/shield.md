@@ -4,11 +4,9 @@ description: What is Shield and how can it help me be more productive?
 
 # How to use Inbox Shield
 
-## Introduction
-
 Inbox Shield is a way to reduce the number of emails that are hitting your inbox so that you can lower distractions and be more productive.
 
-### How does Inbox Shield work?
+## How does Inbox Shield work?
 
 When you **enable Shield** we'll start monitoring your inbox for new emails. If a new email matches a sender on one of your **Shield Blocklists**, then we move it instantly to a hidden folder so that it skips your inbox.
 
