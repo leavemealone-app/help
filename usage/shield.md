@@ -32,6 +32,14 @@ Yes you can still see the emails in the **\_lma-shield** folder in your email cl
 
 ![Where to find emails blocked by Leave Me Alone Shield in Gmail.](../.gitbook/assets/shield-folder-in-gmail.png)
 
+## What happens to my blocklists if I disable Shield or deactivate my account?
+
+If you disable Shield we immediately stop monitoring your inbox and stop blocking any emails. You can still edit your Blocklists but they will be inactive until you enable Shield again.
+
+If you deactivate your Leave Me Alone account we immediately stop monitoring your inbox and **delete all of your account data including all of your Blocklists.**
+
+
+
 
 
 
