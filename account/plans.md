@@ -17,9 +17,8 @@ You can cancel your plan at any time from the [billing page](https://leavemealon
 **After then your subscription will be canceled, which means:**
 
 * All of your Rollups will be disabled.
-* You won't receive monthly credits.
-
-Any top-up credits you purchased separately to your plan will remain on your account.
+* Inbox Shield will stop blocking your mail
+* Your unlimited unsubscribes will be stopped
 
 ![Visit the billing page and click Cancel subscription](../.gitbook/assets/image%20%2823%29.png)
 

@@ -12,7 +12,7 @@ If we reach a screen like this that we don't know how to deal with then we show 
 
 ![Click the &apos;Unsub failed&apos; button to see more details](../.gitbook/assets/image%20%2841%29.png)
 
-If you click on those notifications then you can see how the unsubscribe failed, and easily fix it manually. **You are not charged any credits when this happens.**  
+If you click on those notifications then you can see how the unsubscribe failed, and easily fix it manually.  
   
 You can also filter the mail list by '**failed**' to see all failed unsubscribes like this;
 
@@ -30,7 +30,7 @@ If we reach a screen like this that we don't know how to deal with then we show 
 
 ![Click the &apos;Unsub failed&apos; button to see more details](../.gitbook/assets/failed-unsub.png)
 
-If you click on those notifications then you can see how the unsubscribe failed, and easily fix it manually. **You are not charged any credits when this happens.**
+If you click on those notifications then you can see how the unsubscribe failed, and easily fix it manually.
 
 If you don't think this is right then it's also possible that the mailing list we unsubscribed you from is not following the rules correctly and even though you have unsubscribed they are still sending you emails.
 

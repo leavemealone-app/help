@@ -21,7 +21,6 @@
 
 ## Using Leave Me Alone <a id="usage"></a>
 
-* [How to use credits to unsubscribe](usage/credits.md)
 * [How to search, sort, and filter your mail](usage/filters.md)
 * [How to create and use Rollups](usage/rollups/README.md)
   * [Troubleshooting](usage/rollups/troubleshooting.md)

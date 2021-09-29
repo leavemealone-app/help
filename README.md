@@ -16,11 +16,11 @@ Are we missing something? [Let us know](https://leavemealone.app/feedback).
 
 ## Dive deeper
 
-{% page-ref page="usage/credits.md" %}
-
 {% page-ref page="usage/filters.md" %}
 
 {% page-ref page="usage/rollups/" %}
+
+{% page-ref page="usage/shield.md" %}
 
 ## Account and billing
 
