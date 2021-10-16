@@ -9,7 +9,7 @@
 * [How to add an email to your Rollup](start-here/how-to-add-an-email-to-your-rollup.md)
 * [How to keep an email in your inbox](start-here/how-to-keep-an-email-in-your-inbox.md)
 
-## Setup Guides <a id="guides"></a>
+## Setup Guides <a href="guides" id="guides"></a>
 
 * [How to connect a Gmail account](guides/connecting-gmail.md)
 * [How to connect an Outlook account](guides/connecting-outlook.md)
@@ -19,19 +19,21 @@
 * [How to connect a Fastmail account](guides/connecting-fastmail.md)
 * [How to connect any email account with IMAP](guides/connecting-other-imap.md)
 
-## Using Leave Me Alone <a id="usage"></a>
+## Using Leave Me Alone <a href="usage" id="usage"></a>
 
 * [How to search, sort, and filter your mail](usage/filters.md)
 * [How to create and use Rollups](usage/rollups/README.md)
   * [Troubleshooting](usage/rollups/troubleshooting.md)
 * [How to use Inbox Shield](usage/shield.md)
+* [How to use Blocklists](usage/how-to-use-blocklists/README.md)
+  * [What is the Spam Blocklist?](usage/how-to-use-blocklists/what-is-the-spam-blocklist.md)
 
-## Account & Billing <a id="account"></a>
+## Account & Billing <a href="account" id="account"></a>
 
 * [How to upgrade, downgrade or cancel your plan](account/plans.md)
 * [How to delete your account](account/how-to-delete-your-account.md)
 
-## Having problems? <a id="problems"></a>
+## Having problems? <a href="problems" id="problems"></a>
 
 * [FAQ](problems/faq.md)
 * [Troubleshooting](problems/troubleshooting.md)
@@ -39,4 +41,3 @@
 ## Misc
 
 * [Cookies](misc/cookies.md)
-
