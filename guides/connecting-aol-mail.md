@@ -6,7 +6,7 @@ description: >-
 
 # How to connect an AOL Mail account
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](<../.gitbook/assets/image (4).png>)
 
 ## Step 1: Generate an app password
 
@@ -14,7 +14,7 @@ description: >-
 2. Click **Generate app password**, or **Manage app passwords** if you already have app passwords for other services.
 3. In the popup select "**Other app**"
 4. Enter "**Leave Me Alone**" and click Generate.
-5. **Copy the App Password** - don't forget this bit ️⚠️.
+5. **Copy the App Password **- don't forget this bit ️⚠️.
 
 {% hint style="info" %}
 Don't forget to copy your app password after you click **Generate**!
@@ -22,23 +22,22 @@ Don't forget to copy your app password after you click **Generate**!
 
 {% tabs %}
 {% tab title="View steps as a video" %}
-![](../.gitbook/assets/1-generate-pass%20%282%29.gif)
+![](<../.gitbook/assets/1-generate-pass (2).gif>)
 {% endtab %}
 
 {% tab title="View steps as pictures" %}
-![Click Generate app passwords \(or Manage app passwords if you already have one setup\)](../.gitbook/assets/step1%20%283%29.png)
+![Click Generate app passwords (or Manage app passwords if you already have one setup)](<../.gitbook/assets/step1 (3).png>)
 
-![Select Other app, enter &quot;Leave Me Alone&quot; and click Generate, copy the app password](../.gitbook/assets/step2%20%281%29.png)
+![Select Other app, enter "Leave Me Alone" and click Generate, copy the app password](<../.gitbook/assets/step2 (1).png>)
 {% endtab %}
 {% endtabs %}
 
 All done!
 
-You can now connect your AOL Mail to [Leave Me Alone](https://leavemealone.app/) using your email address and the App Password you just generated.
+You can now connect your AOL Mail to [Leave Me Alone](https://leavemealone.app) using your email address and the App Password you just generated.
 
 ## Troubleshooting
 
 ### Still need help?
 
 Submit a request [here](https://leavemealone.app/feedback) or email us at [support@leavemealone.app](mailto:support@leavemealone.app).
-

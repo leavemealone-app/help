@@ -8,15 +8,15 @@ Sometimes the scan can get stuck. This can usually be resolved by restarting the
 
 Sometimes when we try and unsubscribe you we might get a response that requires logging in or following extra steps.
 
-If we reach a screen like this that we don't know how to deal with then we show you a notification \(that maybe you might have missed\). You can spot a failed unsubscribe in the mail list as it looks like this;
+If we reach a screen like this that we don't know how to deal with then we show you a notification (that maybe you might have missed). You can spot a failed unsubscribe in the mail list as it looks like this;
 
-![Click the &apos;Unsub failed&apos; button to see more details](../.gitbook/assets/image%20%2841%29.png)
+![Click the 'Unsub failed' button to see more details](<../.gitbook/assets/image (41).png>)
 
-If you click on those notifications then you can see how the unsubscribe failed, and easily fix it manually.  
-  
+If you click on those notifications then you can see how the unsubscribe failed, and easily fix it manually.\
+\
 You can also filter the mail list by '**failed**' to see all failed unsubscribes like this;
 
-![Use the &quot;failed&quot; filter to see all failed unsubscribes](../.gitbook/assets/filter-failed-unsubs.png)
+![Use the "failed" filter to see all failed unsubscribes](../.gitbook/assets/filter-failed-unsubs.png)
 
 ## I'm still getting emails from senders I unsubscribed from
 
@@ -26,9 +26,9 @@ For example when we try and unsubscribe you we might sometimes get a response li
 
 ![Unsubscribe form that requires additional manual input](../.gitbook/assets/manual-unsub-steps2.png)
 
-If we reach a screen like this that we don't know how to deal with then we show you a notification \(that maybe you might have missed\). You can spot a failed unsubscribe in the mail list as it looks like this;
+If we reach a screen like this that we don't know how to deal with then we show you a notification (that maybe you might have missed). You can spot a failed unsubscribe in the mail list as it looks like this;
 
-![Click the &apos;Unsub failed&apos; button to see more details](../.gitbook/assets/failed-unsub.png)
+![Click the 'Unsub failed' button to see more details](../.gitbook/assets/failed-unsub.png)
 
 If you click on those notifications then you can see how the unsubscribe failed, and easily fix it manually.
 
@@ -42,6 +42,4 @@ See also: [I'm not seeing any emails in Leave Me Alone](troubleshooting.md#im-no
 
 Sometimes we might not identify a subscription email in your inbox and it won't show up in the Leave Me Alone mail list.
 
-The best way for us to investigate why we're missing some of your subscriptions is to add 1-2 of the emails we aren't finding to [this form](https://airtable.com/shr6CwAxYzpcSURM4). We'll figure out what's happening and let you know when we find a solution.  
-
-
+The best way for us to investigate why we're missing some of your subscriptions is to add 1-2 of the emails we aren't finding to [this form](https://airtable.com/shr6CwAxYzpcSURM4). We'll figure out what's happening and let you know when we find a solution.\

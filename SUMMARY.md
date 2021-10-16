@@ -25,8 +25,8 @@
 * [How to create and use Rollups](usage/rollups/README.md)
   * [Troubleshooting](usage/rollups/troubleshooting.md)
 * [How to use Inbox Shield](usage/shield.md)
-* [How to use Blocklists](usage/how-to-use-blocklists/README.md)
-  * [What is the Spam Blocklist?](usage/how-to-use-blocklists/what-is-the-spam-blocklist.md)
+* [How to use Blocklists](usage/blocklists/README.md)
+  * [What is the Spam Blocklist?](usage/blocklists/spam.md)
 
 ## Account & Billing <a href="account" id="account"></a>
 
