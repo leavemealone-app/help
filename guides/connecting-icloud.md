@@ -41,6 +41,10 @@ You can now connect your iCloud to [Leave Me Alone](https://leavemealone.app) us
 
 ## Troubleshooting
 
+### I can't connect my account
+
+Please ensure you are using the same email address that you sign into iCloud with (your APPLE ID) to connect your account to Leave Me Alone. **This might be different from your email address.**
+
 ### Still need help?
 
 Submit a request [here](https://leavemealone.app/feedback) or email us at [support@leavemealone.app](mailto:support@leavemealone.app).
