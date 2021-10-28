@@ -16,15 +16,7 @@ When you **enable Shield** we'll start monitoring your inbox for new emails. If 
 
 Visit the [Shield Dashboard](https://leavemealone.app/app/shield) and click the "Shields Up" toggle.
 
-![](../.gitbook/assets/image%20%2842%29.png)
-
-## How do I add a sender to a Blocklist?
-
-Currently you can enable Blocklists for emails that you have unsubscribed from, but soon we will launch more Blocklists, as well as the ability to customize them more extensively.
-
-## What is the Unsubscribe Blocklist?
-
-When you unsubscribe from an email in Leave Me Alone the sender will be automatically added to an "Unsubscribe Blocklist". This means that even if the unsubscribe fails, you will no longer receive emails from that sender if you have Shield enabled.
+![](<../.gitbook/assets/image (42).png>)
 
 ## Can I still see blocked emails in my mailbox?
 
@@ -37,8 +29,6 @@ Yes you can still see the emails in the **\_lma-shield** folder in your email cl
 If you disable Shield we immediately stop monitoring your inbox and stop blocking any emails. You can still edit your Blocklists but they will be inactive until you enable Shield again.
 
 If you deactivate your Leave Me Alone account we immediately stop monitoring your inbox and **delete all of your account data including all of your Blocklists.**
-
-
 
 
 
