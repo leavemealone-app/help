@@ -22,7 +22,7 @@ You can choose to receive your Rollup daily or weekly and you choose the day and
 Daily Rollups are only available on our **Inbox Zero Hero** plan ✨
 {% endhint %}
 
-![You decide when to receive your Rollup!](../../.gitbook/assets/image%20%2828%29.png)
+![You decide when to receive your Rollup!](<../../.gitbook/assets/image (28).png>)
 
 ## Can I change when I receive my Rollup?
 
@@ -32,14 +32,14 @@ Yes! You can edit your Rollup schedule by clicking the chevron icon and clicking
 We recommend you don't do this very often.
 {% endhint %}
 
-![To edit your Rollup click the chevron and click edit.](../../.gitbook/assets/image%20%2818%29.png)
+![To edit your Rollup click the chevron and click edit.](<../../.gitbook/assets/image (18).png>)
 
 ## Can I change how my Rollup looks?
 
 Yes! If you are on our Hero plan then you can select from 3 different layout options depending on your needs;
 
-**Featured view** - image previews from your most read senders  
-**Detailed view** - subject lines for every email for more info  
+**Featured view** - image previews from your most read senders\
+**Detailed view** - subject lines for every email for more info\
 **Compact view** - overview of total emails for quick viewing
 
 ![Choose your layout when you create or edit a Rollup](../../.gitbook/assets/layouts.png)
@@ -52,11 +52,11 @@ Here's an example of the same Rollup in the different layout options;
 
 ### **Featured view**
 
-![](../../.gitbook/assets/layout-featured%20%281%29.png)
+![](<../../.gitbook/assets/layout-featured (1).png>)
 
 ### **Detailed view**
 
-![](../../.gitbook/assets/layout-detailed%20%281%29.png)
+![](<../../.gitbook/assets/layout-detailed (1).png>)
 
 ### **Compact view**
 
@@ -97,7 +97,7 @@ Remember that when you remove a sender all emails for that sender will be remove
 
 You can tell which emails are in a Rollup from the Mail List by filtering by rolled-up:
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](<../../.gitbook/assets/image (36).png>)
 
 
 
@@ -109,7 +109,15 @@ Yes you can! You can add any sender to a Rollup using the 'Add sender manually' 
 The **to address** of the email can only be one of your connected accounts
 {% endhint %}
 
-![Go to your Rollup, click senders, and click &apos;Add sender manually&apos;](../../.gitbook/assets/image%20%2833%29.png)
+1. Go to your senders list from the Rollups page, or can click the "senders" tab at the top of your Rollup issues.
+
+![Click the senders button from the Rollups list](../../.gitbook/assets/rollups-list-sender-button.png) ![Or click the senders tab from your issue list](<../../.gitbook/assets/rollups-sender-list (2).png>)
+
+
+
+2\. Click add sender manually to add any sender you like to your Rollup
+
+![Click "Add sender manually"](<../../.gitbook/assets/add-sender-manually (1).png>)
 
 ## How can I remove a sender from a Rollup?
 
@@ -146,7 +154,7 @@ You can delete your Rollup from the Rollups page [here](https://leavemealone.app
 * We will stop watching for emails from senders in this Rollup.
 * We won't move emails in this Rollup out of your Inbox any more.
 
-![To delete your Rollup click the chevron and click delete](../../.gitbook/assets/image%20%2814%29.png)
+![To delete your Rollup click the chevron and click delete](<../../.gitbook/assets/image (14).png>)
 
 
 
@@ -154,7 +162,7 @@ You can delete your Rollup from the Rollups page [here](https://leavemealone.app
 
 Having problems? Check out our common troubleshooting articles:
 
-{% page-ref page="troubleshooting.md" %}
-
-
+{% content-ref url="troubleshooting.md" %}
+[troubleshooting.md](troubleshooting.md)
+{% endcontent-ref %}
 
