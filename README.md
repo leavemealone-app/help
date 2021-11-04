@@ -6,27 +6,53 @@ Are we missing something? [Let us know](https://leavemealone.app/feedback).
 
 ## Start here
 
-{% page-ref page="start-here/how-to-connect-your-email-account.md" %}
+{% content-ref url="start-here/how-to-connect-your-email-account.md" %}
+[how-to-connect-your-email-account.md](start-here/how-to-connect-your-email-account.md)
+{% endcontent-ref %}
 
-{% page-ref page="start-here/how-to-unsubscribe-from-an-email.md" %}
+{% content-ref url="start-here/how-to-unsubscribe-from-an-email.md" %}
+[how-to-unsubscribe-from-an-email.md](start-here/how-to-unsubscribe-from-an-email.md)
+{% endcontent-ref %}
 
-{% page-ref page="start-here/how-to-add-an-email-to-your-rollup.md" %}
+{% content-ref url="start-here/how-to-add-an-email-to-your-rollup.md" %}
+[how-to-add-an-email-to-your-rollup.md](start-here/how-to-add-an-email-to-your-rollup.md)
+{% endcontent-ref %}
 
-{% page-ref page="start-here/how-to-keep-an-email-in-your-inbox.md" %}
+{% content-ref url="start-here/how-to-keep-an-email-in-your-inbox.md" %}
+[how-to-keep-an-email-in-your-inbox.md](start-here/how-to-keep-an-email-in-your-inbox.md)
+{% endcontent-ref %}
+
+{% content-ref url="start-here/how-to-block-emails-from-your-inbox.md" %}
+[how-to-block-emails-from-your-inbox.md](start-here/how-to-block-emails-from-your-inbox.md)
+{% endcontent-ref %}
 
 ## Dive deeper
 
-{% page-ref page="usage/filters.md" %}
+{% content-ref url="usage/filters.md" %}
+[filters.md](usage/filters.md)
+{% endcontent-ref %}
 
-{% page-ref page="usage/rollups/" %}
+{% content-ref url="usage/rollups/" %}
+[rollups](usage/rollups/)
+{% endcontent-ref %}
 
-{% page-ref page="usage/shield.md" %}
+{% content-ref url="usage/shield.md" %}
+[shield.md](usage/shield.md)
+{% endcontent-ref %}
+
+{% content-ref url="usage/blocklists/" %}
+[blocklists](usage/blocklists/)
+{% endcontent-ref %}
 
 ## Account and billing
 
-{% page-ref page="account/plans.md" %}
+{% content-ref url="account/plans.md" %}
+[plans.md](account/plans.md)
+{% endcontent-ref %}
 
-{% page-ref page="account/how-to-delete-your-account.md" %}
+{% content-ref url="account/how-to-delete-your-account.md" %}
+[how-to-delete-your-account.md](account/how-to-delete-your-account.md)
+{% endcontent-ref %}
 
 
 
@@ -34,7 +60,10 @@ Are we missing something? [Let us know](https://leavemealone.app/feedback).
 
 Check out the following articles:
 
-{% page-ref page="problems/faq.md" %}
+{% content-ref url="problems/faq.md" %}
+[faq.md](problems/faq.md)
+{% endcontent-ref %}
 
-{% page-ref page="problems/troubleshooting.md" %}
-
+{% content-ref url="problems/troubleshooting.md" %}
+[troubleshooting.md](problems/troubleshooting.md)
+{% endcontent-ref %}

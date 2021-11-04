@@ -8,6 +8,7 @@
 * [How to unsubscribe from an email](start-here/how-to-unsubscribe-from-an-email.md)
 * [How to add an email to your Rollup](start-here/how-to-add-an-email-to-your-rollup.md)
 * [How to keep an email in your inbox](start-here/how-to-keep-an-email-in-your-inbox.md)
+* [How to block emails from your inbox](start-here/how-to-block-emails-from-your-inbox.md)
 
 ## Setup Guides <a href="guides" id="guides"></a>
 
