@@ -4,22 +4,22 @@ Senders on your Blocklists will be blocked from appearing in your inbox. You can
 
 ## How do I use Blocklists?
 
-When you unsubscribe from an email it'll be automatically added to your [Unsubscribe Blocklist.](what-is-the-unsubscribe-blocklist.md) To block any other sender by email address or domain you can add it to your [Custom Blocklist.](what-is-the-custom-blocklist.md)
+When you unsubscribe from an email it'll be automatically added to your [Unsubscribe Blocklist.](unsubscribe.md) To block any other sender by email address or domain you can add it to your [Custom Blocklist.](custom.md)
 
-Don't forget, you can use our built-in blocklists to block the most common [social media](what-is-the-social-media-blocklist.md) and [spam](spam.md) emails!
+Don't forget, you can use our built-in blocklists to block the most common [social media](social-media.md) and [spam](spam.md) emails!
 
 Learn more about each blocklist here:
 
-{% content-ref url="what-is-the-unsubscribe-blocklist.md" %}
-[what-is-the-unsubscribe-blocklist.md](what-is-the-unsubscribe-blocklist.md)
+{% content-ref url="unsubscribe.md" %}
+[unsubscribe.md](unsubscribe.md)
 {% endcontent-ref %}
 
-{% content-ref url="what-is-the-custom-blocklist.md" %}
-[what-is-the-custom-blocklist.md](what-is-the-custom-blocklist.md)
+{% content-ref url="custom.md" %}
+[custom.md](custom.md)
 {% endcontent-ref %}
 
-{% content-ref url="what-is-the-social-media-blocklist.md" %}
-[what-is-the-social-media-blocklist.md](what-is-the-social-media-blocklist.md)
+{% content-ref url="social-media.md" %}
+[social-media.md](social-media.md)
 {% endcontent-ref %}
 
 {% content-ref url="spam.md" %}

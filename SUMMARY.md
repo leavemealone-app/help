@@ -27,9 +27,9 @@
   * [Troubleshooting](usage/rollups/troubleshooting.md)
 * [How to use Inbox Shield](usage/shield.md)
 * [How to use Blocklists](usage/blocklists/README.md)
-  * [What is the Unsubscribe Blocklist?](usage/blocklists/what-is-the-unsubscribe-blocklist.md)
-  * [What is the Custom Blocklist?](usage/blocklists/what-is-the-custom-blocklist.md)
-  * [What is the Social Media Blocklist?](usage/blocklists/what-is-the-social-media-blocklist.md)
+  * [What is the Unsubscribe Blocklist?](usage/blocklists/unsubscribe.md)
+  * [What is the Custom Blocklist?](usage/blocklists/custom.md)
+  * [What is the Social Media Blocklist?](usage/blocklists/social-media.md)
   * [What is the Spam Blocklist?](usage/blocklists/spam.md)
 
 ## Account & Billing <a href="account" id="account"></a>
