@@ -31,6 +31,7 @@
   * [What is the Custom Blocklist?](usage/blocklists/custom.md)
   * [What is the Social Media Blocklist?](usage/blocklists/social-media.md)
   * [What is the Spam Blocklist?](usage/blocklists/spam.md)
+  * [What is the Cold Emails blocklist?](usage/blocklists/cold-emails.md)
 
 ## Account & Billing <a href="account" id="account"></a>
 
