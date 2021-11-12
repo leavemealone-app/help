@@ -2,7 +2,9 @@
 
 ## I'm not seeing any emails in Leave Me Alone
 
-Sometimes the scan can get stuck. This can usually be resolved by restarting the scan, you can do this by visiting your [profile settings here](https://leavemealone.app/app/profile), scrolling to the bottom, and clicking the button "Clear Local Emails". Now when you go back to the mail list page it should restart the scan and hopefully it work this time!
+Sometimes the scan can get stuck. This can usually be resolved by restarting the scan, you can do this by visiting your [profile settings here](https://leavemealone.app/app/profile), scrolling to the bottom, and clicking the button "Restart scan".
+
+Re-scanning will automatically take place but may take a few minutes to finish.
 
 ## I'm seeing a lot of failed unsubscribes
 
