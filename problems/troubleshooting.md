@@ -2,9 +2,13 @@
 
 ## I'm not seeing any emails in Leave Me Alone
 
-Sometimes the scan can get stuck. This can usually be resolved by restarting the scan, you can do this by visiting your [profile settings here](https://leavemealone.app/app/profile), scrolling to the bottom, and clicking the button "Restart scan".
+If you aren't seeing any subscriptions or you see the "no subscriptions here" message then your scan might be stuck.
+
+This can usually be resolved by restarting the scan, and you can do this by visiting your [profile settings here](https://leavemealone.app/app/profile), scrolling to the bottom, and clicking the button "Restart scan".
 
 Re-scanning will automatically take place but may take a few minutes to finish.
+
+![Click restart scan to trigger a new scan of your mail](<../.gitbook/assets/restart scan.png>)
 
 ## I'm seeing a lot of failed unsubscribes
 

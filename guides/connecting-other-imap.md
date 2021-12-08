@@ -12,7 +12,7 @@ description: >-
 
 IMAP is a way for Leave Me Alone to connect to your email account so that we can scan your mailboxes and show you emails to unsubscribe from.
 
-You will need the **IMAP** **host **(or** IMAP Server**) and **IMAP** **port** for your mail provider's server.
+You will need the **IMAP** **host** (or **IMAP Server**) and **IMAP** **port** for your mail provider's server.
 
 You can usually find this by searching Google for "**\<your email account> IMAP settings**".
 

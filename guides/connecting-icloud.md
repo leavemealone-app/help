@@ -13,7 +13,7 @@ description: >-
 1. [Sign in to your Apple ID account page](https://appleid.apple.com/account/home).
 2. In the Security section, click **Generate Password...** below App-Specific Passwords.
 3. Enter "**Leave Me Alone**" and click Create.
-4. **Copy the App Password **- don't forget this bit ️⚠️
+4. **Copy the App Password** - don't forget this bit ️⚠️
 
 {% hint style="info" %}
 Don't forget to copy your app password after you click **Create**!

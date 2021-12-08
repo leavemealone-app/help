@@ -13,8 +13,8 @@ description: >-
 1. Open the [Password & Security → App Passwords](https://www.fastmail.com/go/settings/security/devicekeys) screen.
 2. Enter your password and click Unlock, then click **New App Password**.
 3. Select **Custom...** name and enter "**Leave Me Alone**".
-4. Select **Mail (IMAP/POP/SMTP) **access** **and click Generate Password.
-5. **Copy the App Password **- don't forget this bit ️⚠️.
+4. Select **Mail (IMAP/POP/SMTP)** access **** and click Generate Password.
+5. **Copy the App Password** - don't forget this bit ️⚠️.
 
 {% hint style="info" %}
 Don't forget to copy your app password after you click **Generate Password**!
