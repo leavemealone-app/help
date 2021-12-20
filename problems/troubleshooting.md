@@ -48,4 +48,18 @@ See also: [I'm not seeing any emails in Leave Me Alone](troubleshooting.md#im-no
 
 Sometimes we might not identify a subscription email in your inbox and it won't show up in the Leave Me Alone mail list.
 
-The best way for us to investigate why we're missing some of your subscriptions is to add 1-2 of the emails we aren't finding to [this form](https://airtable.com/shr6CwAxYzpcSURM4). We'll figure out what's happening and let you know when we find a solution.\
+The best way for us to investigate why we're missing some of your subscriptions is to add 1-2 of the emails we aren't finding to [this form](https://airtable.com/shr6CwAxYzpcSURM4). We'll figure out what's happening and let you know when we find a solution.
+
+## I can't use Rollups or Shield with my Google Workspace or Google Sign-in account
+
+For Rollups and Shield to work correctly we need to watch your Inbox for incoming mail. If you have an account connected to Leave Me Alone with Google Sign-in then sadly Google doesn't allow us to do this.
+
+This is a limitation from Google and unfortunately it's out of our control. However, you can still use Leave Me Alone to it's full potential if you connect your account using IMAP instead!
+
+Please refer to this help page with instructions on how to do this;
+
+{% content-ref url="../guides/connecting-gmail.md" %}
+[connecting-gmail.md](../guides/connecting-gmail.md)
+{% endcontent-ref %}
+
+If you would like us to help you make the switch then please contact us and we'll be happy to help!\
