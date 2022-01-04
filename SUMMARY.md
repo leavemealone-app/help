@@ -32,7 +32,7 @@
   * [What is the Social Media Blocklist?](usage/blocklists/social-media.md)
   * [What is the Spam Blocklist?](usage/blocklists/spam.md)
   * [What is the Cold Emails blocklist?](usage/blocklists/cold-emails.md)
-* [How to use Priority Senders](usage/how-to-use-priority-senders.md)
+* [How to use Priority Senders](usage/priority-senders.md)
 
 ## Account & Billing <a href="#account" id="account"></a>
 
