@@ -123,8 +123,21 @@ The **to address** of the email can only be one of your connected accounts
 
 You can remove a sender one of 2 ways:
 
-1. Click the Rollup button on the mail list.
-2. Navigate to the senders list for a Rollup and click the remove button.
+\#1 - Click the **Add to** **Rollup** button in the mail list
+
+![Toggle the "Add to Rollup" button off to remove a sender from your Rollup](<../../.gitbook/assets/remove sender from mail list.png>)
+
+
+
+\#2 - Navigate to the senders list for a Rollup and click the **Remove** button.
+
+![Navigate to the senders list and click "Remove"](<../../.gitbook/assets/remove sender.png>)
+
+## How can I unsubscribe from a sender in a Rollup?
+
+You can unsubscribe from a sender that's in your Rollup using the options dropdown next to the sender. You can only unsubscribe from a sender once we have rolled-up at least one email from them!
+
+![Click the options dropdown next to a sender and click Unsubscribe](<../../.gitbook/assets/unsub issue.png>)
 
 ## Can I still see rolled up emails in my mailbox?
 
