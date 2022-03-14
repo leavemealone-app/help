@@ -27,7 +27,7 @@
   * [Exporting sender data](usage/rollups/export-senders.md)
   * [Troubleshooting](usage/rollups/troubleshooting.md)
 * [How to use Inbox Shield](usage/shield/README.md)
-  * [The Screener](usage/shield/the-screener.md)
+  * [Screener](usage/shield/screener.md)
   * [Blocklists](usage/shield/blocklists/README.md)
     * [The Unsubscribe Blocklist](usage/shield/blocklists/unsubscribe.md)
     * [The Custom Blocklist](usage/shield/blocklists/custom.md)
