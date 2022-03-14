@@ -1,4 +1,8 @@
-# What is the Cold Emails blocklist?
+---
+description: What is the Cold Email Blocklist?
+---
+
+# The Cold Emails Blocklist
 
 The Cold Emails blocklist blocks emails sent from mass email tools such as GMass, LemList, SalesForce and many more.
 

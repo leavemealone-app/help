@@ -8,7 +8,7 @@ Sometimes you need more customisable filters than Rollups allows, or simply to e
 
 From your Rollup page you will find an Export button. This exports your senders directly to a Gmail filters XML file, which can be imported into your Gmail.
 
-![](<../../.gitbook/assets/image (44) (1).png>)
+![](<../../.gitbook/assets/image (44) (1) (1).png>)
 
 
 

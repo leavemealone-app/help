@@ -1,10 +1,8 @@
 ---
-description: >-
-  If you’re getting spam in your inbox that wont stop, enabling this blocklist
-  should help!
+description: What is the Spam Blocklist?
 ---
 
-# What is the Spam Blocklist?
+# The Spam Blocklist
 
 The Spam Blocklist does exactly what you'd expect. It blocks spam from your Inbox!
 

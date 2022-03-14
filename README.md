@@ -36,12 +36,12 @@ Are we missing something? [Let us know](https://leavemealone.app/feedback).
 [rollups](usage/rollups/)
 {% endcontent-ref %}
 
-{% content-ref url="usage/shield.md" %}
-[shield.md](usage/shield.md)
+{% content-ref url="usage/shield/" %}
+[shield](usage/shield/)
 {% endcontent-ref %}
 
-{% content-ref url="usage/blocklists/" %}
-[blocklists](usage/blocklists/)
+{% content-ref url="usage/blocklists.md" %}
+[blocklists.md](usage/blocklists.md)
 {% endcontent-ref %}
 
 ## Account and billing
