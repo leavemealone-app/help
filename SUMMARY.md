@@ -36,7 +36,6 @@
     * [The Cold Emails Blocklist](usage/shield/blocklists/cold-emails.md)
   * [Priority Senders](usage/shield/priority-senders.md)
   * [Do Not Disturb](usage/shield/do-not-disturb.md)
-* [How to use Blocklists](usage/blocklists.md)
 
 ## Account & Billing <a href="#account" id="account"></a>
 

@@ -40,8 +40,8 @@ Are we missing something? [Let us know](https://leavemealone.app/feedback).
 [shield](usage/shield/)
 {% endcontent-ref %}
 
-{% content-ref url="usage/blocklists.md" %}
-[blocklists.md](usage/blocklists.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Account and billing
