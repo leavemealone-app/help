@@ -2,7 +2,7 @@
 description: What is The Screener, and how do I use it?
 ---
 
-# The Screener
+# Screener
 
 The Screener **gives** **you control** of who is allowed to email you.
 
@@ -18,7 +18,7 @@ Every day you will receive an email from Leave Me Alone letting you know which s
 
 You can see the emails that you have blocked from the Screener Mail View, and choose to allow them again.&#x20;
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (47) (1).png>)
 
 ## What about subscription emails?
 
