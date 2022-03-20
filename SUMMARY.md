@@ -42,6 +42,10 @@
 * [How to upgrade, downgrade or cancel your plan](account/plans.md)
 * [How to delete your account](account/how-to-delete-your-account.md)
 
+## Advanced Usage <a href="#advanced" id="advanced"></a>
+
+* [Import senders](advanced/import-senders.md)
+
 ## Having problems? <a href="#problems" id="problems"></a>
 
 * [FAQ](problems/faq.md)

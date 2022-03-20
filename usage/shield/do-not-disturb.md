@@ -8,7 +8,7 @@ You can set a scheduled time to stop being disturbed by emails. If emails arrive
 
 You can choose from one of our preset schedules or create your own!
 
-![Choose a scheduled time to not be disturbed](<../../.gitbook/assets/image (47).png>)
+![Choose a scheduled time to not be disturbed](<../../.gitbook/assets/image (47) (1).png>)
 
 ### Where can I find my held emails?
 

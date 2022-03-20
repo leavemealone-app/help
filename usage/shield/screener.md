@@ -12,13 +12,13 @@ When you receive an email from a new sender, the Screener will block it. You can
 
 Every day you will receive an email from Leave Me Alone letting you know which senders have been blocked, so you will never miss anything important. From the email you can choose to Allow or Block that sender.
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (45) (1).png>)
 
 ## Can I unblock something I blocked?
 
 You can see the emails that you have blocked from the Screener Mail View, and choose to allow them again.&#x20;
 
-![](<../../.gitbook/assets/image (47) (1).png>)
+![](<../../.gitbook/assets/image (47) (1) (1).png>)
 
 ## What about subscription emails?
 
@@ -42,5 +42,5 @@ If mail is screened because of an active Blocklist then it will display that Blo
 
 ![A email from a Social Media company displaying the SOCIAL label](<../../.gitbook/assets/image (44).png>)
 
-![Our built in Blocklists with their labels](<../../.gitbook/assets/image (46).png>)
+![Our built in Blocklists with their labels](<../../.gitbook/assets/image (46) (1).png>)
 
