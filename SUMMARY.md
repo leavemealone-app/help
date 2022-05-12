@@ -24,6 +24,7 @@
 
 * [How to search, sort, and filter your mail](usage/filters.md)
 * [How to create and use Rollups](usage/rollups/README.md)
+  * [Shielded emails](usage/rollups/shielded-emails.md)
   * [Exporting sender data](usage/rollups/export-senders.md)
   * [Troubleshooting](usage/rollups/troubleshooting.md)
 * [How to use Inbox Shield](usage/shield/README.md)
