@@ -36,7 +36,7 @@ To scan your mailbox for emails, you need to enable IMAP for your Gmail account.
 If you don't have 2-Step Verification enabled then the next step won't work!
 {% endhint %}
 
-1. Go to your [Google Account](https://myaccount.google.com) **Security** **tab**.
+1. Go to your [Google Account](https://myaccount.google.com/) **Security** **tab**.
 2. On the _Signing in to Google_ panel, click [**2-Step Verification**](https://myaccount.google.com/signinoptions/two-step-verification).
 3. Click **Get started** and follow the steps.
 
@@ -54,7 +54,7 @@ If you don't have 2-Step Verification enabled then the next step won't work!
 
 ## Step 3 : Create an App Password
 
-1. Go to your [Google Account](https://myaccount.google.com) **Security tab** again.
+1. Go to your [Google Account](https://myaccount.google.com/) **Security tab** again.
 2. On the _Signing in to Google_ panel, click [**App Passwords**](https://myaccount.google.com/apppasswords).
 3. At the bottom, choose **Select app** and choose **Other **_**(Custom Name)**_.
 4. Enter "**Leave Me Alone**" and choose **GENERATE**.
@@ -76,7 +76,7 @@ Don't forget to copy your app password after you click **Generate**!
 
 All done!
 
-You can now connect your Gmail to [Leave Me Alone](https://leavemealone.app) using your email address and the App Password you just generated.
+You can now connect your Gmail to [Leave Me Alone](https://leavemealone.app/) using your email address and the App Password you just generated.
 
 ## Troubleshooting
 

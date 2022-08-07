@@ -44,3 +44,8 @@ If mail is screened because of an active Blocklist then it will display that Blo
 
 ![Our built in Blocklists with their labels](<../../.gitbook/assets/image (46) (1).png>)
 
+## Can I snooze screened mail?
+
+Yes! If you have mail from a sender and that you want to deal with later then you can snooze it. Click the **Snooze** button and choose to snooze until you next receive an email from that sender, or for a set amount of time (1 day, 1 week, or 1 month).
+
+![Click "Snooze" and choose when you want to snooze the mail until](<../../.gitbook/assets/snooze (1).png>)

@@ -14,11 +14,11 @@ Visit Gmail and click the dots menu at the top right of the page. Click "Contact
 
 When the contacts page loads, click "Frequently Contacted" on the left hand side:
 
-![](<../.gitbook/assets/image (52).png>)
+<img src="../.gitbook/assets/image (52).png" alt="" data-size="original">
 
 Select one of the contacts and then you will see a dropdown select at the top of the page, click "All" to select all of the senders.
 
-![](<../.gitbook/assets/image (47).png>)
+<img src="../.gitbook/assets/image (47).png" alt="" data-size="original">
 
 Click the three-dot menu and click "Export".
 

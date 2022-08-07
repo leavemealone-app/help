@@ -36,7 +36,7 @@ Don't forget to copy your app password after you click **Generate Password**!
 
 All done!
 
-You can now connect your Fastmail account to [Leave Me Alone](https://leavemealone.app) using your email address and the App Password you just generated.
+You can now connect your Fastmail account to [Leave Me Alone](https://leavemealone.app/) using your email address and the App Password you just generated.
 
 ## Troubleshooting
 

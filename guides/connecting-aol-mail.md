@@ -34,7 +34,7 @@ Don't forget to copy your app password after you click **Generate**!
 
 All done!
 
-You can now connect your AOL Mail to [Leave Me Alone](https://leavemealone.app) using your email address and the App Password you just generated.
+You can now connect your AOL Mail to [Leave Me Alone](https://leavemealone.app/) using your email address and the App Password you just generated.
 
 ## Troubleshooting
 

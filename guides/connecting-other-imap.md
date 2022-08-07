@@ -37,7 +37,7 @@ You can usually find this by searching Google for "**\<your email account> IMAP 
 
 All done!
 
-You can now connect your any email account that supports IMAP to [Leave Me Alone](https://leavemealone.app) using this method.
+You can now connect your any email account that supports IMAP to [Leave Me Alone](https://leavemealone.app/) using this method.
 
 ## Troubleshooting
 

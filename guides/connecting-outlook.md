@@ -29,7 +29,7 @@ description: >-
 
 All done!
 
-You can now connect your Microsoft Outlook account to [Leave Me Alone](https://leavemealone.app).
+You can now connect your Microsoft Outlook account to [Leave Me Alone](https://leavemealone.app/).
 
 ## Troubleshooting
 

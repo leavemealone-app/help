@@ -40,10 +40,6 @@ Are we missing something? [Let us know](https://leavemealone.app/feedback).
 [shield](usage/shield/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ## Account and billing
 
 {% content-ref url="account/plans.md" %}
