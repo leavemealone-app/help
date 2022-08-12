@@ -82,9 +82,19 @@ You can now connect your Gmail to [Leave Me Alone](https://leavemealone.app/) us
 
 ### The setting that you are looking for is not available for your account.
 
-You must [enable 2-step verification](connecting-gmail.md#step-2-turn-on-2-step-verification) for this setting to be available for your Google account.
+You must [enable 2-step verification](connecting-gmail.md#step-2-turn-on-2-step-verification) for the app password setting to be available for your Google account so please check you have done this first.
 
-![](../.gitbook/assets/setting-not-found.png)
+If you can't see the option to enable 2-step verification and you have a Google Workspace account please see the next section.
+
+![If you see this page when you try to create an app password then please make sure you have 2-Step Verification enabled first](../.gitbook/assets/setting-not-found.png)
+
+### There is no option to enable 2-step verification
+
+If you are connecting a Google Workspace account and you don't see the option to enable 2FA then you will need to contact your system administrator and ask them to enable to the setting.
+
+They can find it in **Security** -> **Authentication** -> **2-step verification** -> Check the box "_Allow users to turn on 2-Step Verification_"
+
+![Steps to allow enabling 2FA in Google Workspace Admin dashboard](../.gitbook/assets/gworkspace-2fa.png)
 
 ### The password is incorrect for this account
 
@@ -99,6 +109,8 @@ Make sure that you're using the [app password generated in step 3](connecting-gm
 {% hint style="info" %}
 Once you have completed the Display Unlock Captcha you have 10 minutes to connect your account.
 {% endhint %}
+
+
 
 ### Still need help?
 
