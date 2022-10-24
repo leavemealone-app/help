@@ -88,6 +88,16 @@ If you can't see the option to enable 2-step verification and you have a Google 
 
 ![If you see this page when you try to create an app password then please make sure you have 2-Step Verification enabled first](../.gitbook/assets/setting-not-found.png)
 
+### There is no option to create an app password (Google Workspace)
+
+If you are connecting a Google Workspace account and you don't see the option to create an app password you will need to contact your system administrator and ask them to enable access.
+
+They can find it in **Security** -> **Access and data control** -> **Less secure apps** -> Select the option "_Allow users to manage their access to less secure apps_".
+
+Once this has been done you should be able to follow this guide to create an app password and connect your account to Leave Me Alone.
+
+<figure><img src="../.gitbook/assets/less secure apps.png" alt=""><figcaption><p>Steps to allow users to manage their access to less secure apps in Google Workspace Admin dashboard</p></figcaption></figure>
+
 ### There is no option to enable 2-step verification
 
 If you are connecting a Google Workspace account and you don't see the option to enable 2FA then you will need to contact your system administrator and ask them to enable to the setting.
