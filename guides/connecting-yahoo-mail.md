@@ -46,7 +46,7 @@ When you try to create an **app password** you might see this pop-up:
 
 ![](../.gitbook/assets/image.png)
 
-This means that unfortunately Yahoo has disabled the **app password** functionality for your account. Due to abuse of their system Yahoo will now only allow "trusted" accounts to use this functionality. In order to become a trusted account and re-enable app passwords you have to contact their support by email.
+This means that unfortunately Yahoo has disabled the **app password** functionality for your account. Due to abuse of their system Yahoo will now only allow "trusted" accounts to use this functionality. In order to become a trusted account and re-enable app passwords you have to contact their support by email or [reach out to them on Twitter](https://twitter.com/YahooCare).
 
 ## Still need help?
 
