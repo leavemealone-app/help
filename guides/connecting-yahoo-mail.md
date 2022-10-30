@@ -6,7 +6,7 @@ description: >-
 
 # How to connect a Yahoo Mail account
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ## Step 1: Generate an app password
 
@@ -40,6 +40,14 @@ You can now connect your Yahoo Mail to [Leave Me Alone](https://leavemealone.app
 
 ## Troubleshooting
 
-### Still need help?
+### App Passwords unavailable
+
+When you try to create an **app password** you might see this pop-up:
+
+![](../.gitbook/assets/image.png)
+
+This means that unfortunately Yahoo has disabled the **app password** functionality for your account. Due to abuse of their system Yahoo will now only allow "trusted" accounts to use this functionality. In order to become a trusted account and re-enable app passwords you have to contact their support by email.
+
+## Still need help?
 
 Submit a request [here](https://leavemealone.app/feedback) or email us at [support@leavemealone.app](mailto:support@leavemealone.app).

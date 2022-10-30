@@ -6,7 +6,7 @@ description: >-
 
 # How to connect an iCloud Mail account
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 ## Step 1: Generate an app-specific password
 
